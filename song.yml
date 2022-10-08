@@ -970,6 +970,7 @@
     event: プラチナスターシアター～永遠の花～
 
 - song: Starry Melody
+  unit: Sunshine Rhythm
   member:
     - 環
     - 未来
@@ -1001,6 +1002,7 @@
     event: プラチナスターシアター～Starry Melody～
 
 - song: Starry Melody
+  unit: Sunshine Rhythm
   member:
     - 未来
     - 環
@@ -2966,4 +2968,14 @@
   mltd:
     date: 2022.06.16
     event: プラチナスタートラスト～ナツヤスミ☆アピール合戦！～
+
+- song: ミスティック・セレモニーへの招待状
+  member:
+    - 可奈
+    - 翼
+    - 麗花
+    - 朋花
+    - 真美
+  mltd:
+    event: プラチナスタートラストスペシャル～ようこそミスティック・セレモニー～
 
