@@ -970,7 +970,7 @@
     event: プラチナスターシアター～永遠の花～
 
 - song: Starry Melody
-  unit: Sunshine Rhythm
+  unit: Starlight Melody
   member:
     - 環
     - 未来
@@ -2977,5 +2977,6 @@
     - 朋花
     - 真美
   mltd:
+    date: 2022.10.18
     event: プラチナスタートラストスペシャル～ようこそミスティック・セレモニー～
 
