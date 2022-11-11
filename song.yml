@@ -2569,6 +2569,42 @@
     date: 2022.03.16
     disc: THE IDOLM@STER MILLION THE@TER VARIETY 01
 
+- song: Vacation VS Summer ～ナツとヤスミのアンビバレント！～
+  member:
+    - まつり
+    - 環
+    - 紬
+    - のり子
+    - あずさ
+  mltd:
+    date: 2022.06.16
+    event: プラチナスタートラスト～ナツヤスミ☆アピール合戦！～
+  release:
+    date: 2022.12.14
+    disc: THE IDOLM@STER MILLION THE@TER VARIETY 02
+
+- song: ミスティック・セレモニーへの招待状
+  member:
+    - 可奈
+    - 翼
+    - 麗花
+    - 朋花
+    - 真美
+  mltd:
+    date: 2022.10.18
+    event: プラチナスタートラストスペシャル～ようこそミスティック・セレモニー～
+  release:
+    date: 2022.12.14
+    disc: THE IDOLM@STER MILLION THE@TER VARIETY 02
+
+- song: Brand New Theater! ～Brand New Year Ver.～
+  unit: 765 MILLIONSTARS
+  mltd:
+    date: 2022.01.01
+  release:
+    date: 2022.12.14
+    disc: THE IDOLM@STER MILLION THE@TER VARIETY 02
+
 # その他CD
 - song: Thank You!
   member:
@@ -2961,25 +2997,25 @@
     event: プラチナスターツアースペシャル～LINK ST@RT!～
 
 # CD未発売
-- song: Vacation VS Summer ～ナツとヤスミのアンビバレント！～
-  member:
-    - まつり
-    - 環
-    - 紬
-    - のり子
-    - あずさ
-  mltd:
-    date: 2022.06.16
-    event: プラチナスタートラスト～ナツヤスミ☆アピール合戦！～
-
-- song: ミスティック・セレモニーへの招待状
-  member:
-    - 可奈
-    - 翼
-    - 麗花
+- song: Do the IDOL!! ～断崖絶壁チュパカブラ～
+  member: 
     - 朋花
-    - 真美
+    - エミリー
+    - 百合子
+    - 昴
+    - 翼
+  cover: true
   mltd:
-    date: 2022.10.18
-    event: プラチナスタートラストスペシャル～ようこそミスティック・セレモニー～
+    date: 2021.01.01
+    event: スペシャルコミュ
 
+- song: サウンド・オブ・ビギニング
+  unit: RisingLight
+  member:
+    - 琴葉
+    - 美也
+    - ロコ
+    - 桃子
+    - 千鶴
+  mltd:
+    event: プラチナスタータイム～RisingLight～
