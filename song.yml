@@ -2652,17 +2652,23 @@
     disc: THE IDOLM@STER MILLION LIVE! 聖ミリオン女学園
 
 - song: なんどでも笑おう
-  cover: true
   member:
     - 未来
     - 静香
     - 翼
+  cover: true
   release:
     date: 2020.09.30
     disc: THE IDOLM@STERシリーズ15周年記念曲 「なんどでも笑おう」 【ミリオンライブ！盤】
   mltd:
     date: 2021.01.02
     event: プラチナスターシアタースペシャル～なんどでも笑おう～
+
+- song: なんどでも笑おう
+  unit: 765PRO ALLSTARS
+  cover: true
+  mltd:
+    date: 2022.07.10
 
 - song: VOY@GER
   cover: true
@@ -2746,6 +2752,47 @@
     disc: THE IDOLM@STER MILLION RADIO! ENDLESS TOUR
 
 # コミカライズ
+- song: 蒼い鳥
+  member:
+    - 静香
+  cover: true
+  release:
+    date: 2015.03.12
+    disc: アイドルマスター ミリオンライブ！ 1
+
+- song: GO MY WAY!!
+  member:
+    - 未来
+    - 静香
+  cover: true
+  release:
+    date: 2015.03.12
+    disc: アイドルマスター ミリオンライブ！ 1
+
+- song: キミはメロディ
+  member:
+    - 未来
+  cover: true
+  release:
+    date: 2015.08.12
+    disc: アイドルマスター ミリオンライブ！ 2
+
+- song: ビジョナリー
+  member:
+    - 星梨花
+    - 杏奈
+  cover: true
+  release:
+    date: 2015.08.12
+    disc: アイドルマスター ミリオンライブ！ 2
+
+- song: アイル
+  member:
+    - 翼
+  release:
+    date: 2016.01.12
+    disc: アイドルマスター ミリオンライブ！ 3
+
 - song: アイル (Harmonized ver.)
   member:
     - 翼
@@ -2754,6 +2801,168 @@
   release:
     date: 2016.05.20
     disc: 配信限定
+
+- song: my song
+  member:
+    - 翼
+    - ジュリア
+    - 瑞希
+  cover: true
+  release:
+    date: 2016.01.12
+    disc: アイドルマスター ミリオンライブ！ 3
+
+- song: Flooding
+  member:
+    - 静香
+    - 麗花
+    - 志保
+    - 茜
+    - 星梨花
+  release:
+    date: 2016.07.12
+    disc: アイドルマスター ミリオンライブ！ 4
+
+- song: Vault That Borderline!
+  member:
+    - 翼
+    - ジュリア
+    - 紗代子
+    - 百合子
+    - 瑞希
+  cover: true
+  release:
+    date: 2016.07.12
+    disc: アイドルマスター ミリオンライブ！ 4
+
+- song: 君との明日を願うから
+  member:
+    - 未来
+    - 静香
+    - 翼
+  release:
+    date: 2016.12.12
+    disc: アイドルマスター ミリオンライブ！ 5
+
+- song: 私はアイドル♡
+  member:
+    - 瑞希
+    - 恵美
+    - 美也
+    - 桃子
+    - まつり
+  cover: true
+  release:
+    date: 2016.12.12
+    disc: アイドルマスター ミリオンライブ！ 5
+
+- song: L・O・B・M
+  member:
+    - 可奈
+    - 志保
+  cover: true
+  release:
+    date: 2017.11.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 1
+
+- song: ゲンキトリッパー
+  member:
+    - 可奈
+  cover: true
+  release:
+    date: 2017.11.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 1
+
+- song: DREAM
+  member:
+    - 志保
+  cover: true
+  release:
+    date: 2017.11.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 1
+
+- song: Do-Dai
+  member:
+    - 星梨花
+    - 海美
+  cover: true
+  release:
+    date: 2017.12.16
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 2
+
+- song: フラワーガール
+  member:
+    - 星梨花
+  cover: true
+  release:
+    date: 2017.12.16
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 2
+
+- song: スマイル体操
+  member:
+    - 海美
+  cover: true
+  release:
+    date: 2017.12.16
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 2
+
+- song: 神SUMMER!!
+  member:
+    - 美奈子
+    - 奈緒
+  cover: true
+  release:
+    date: 2018.07.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 3
+
+- song: ONLY MY NOTE
+  member:
+    - 春香
+    - 未来
+    - 可奈
+  cover: true
+  release:
+    date: 2018.07.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 3
+
+- song: MUSIC♪
+  member:
+    - 歌織
+    - 紗代子
+    - 可奈
+  cover: true
+  release:
+    date: 2018.07.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 3
+
+- song: チェリー
+  member:
+    - 琴葉
+    - エレナ
+    - 恵美
+  cover: true
+  release:
+    date: 2018.12.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 4
+
+- song: Dreaming!
+  member:
+    - 可奈
+    - 星梨花
+    - 海美
+  cover: true
+  release:
+    date: 2018.12.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 4
+
+- song: i
+  member:
+    - 星梨花
+    - 亜利沙
+  cover: true
+  release:
+    date: 2018.12.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 4
 
 - song: Clover Days
   unit: Clover
@@ -2765,6 +2974,189 @@
   release:
     date: 2019.06.27
     disc: アイドルマスター ミリオンライブ！ Blooming Clover 5
+
+- song: キラメキラリ
+  member:
+    - 茜
+    - 紬
+  cover: true
+  release:
+    date: 2019.06.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 5
+
+- song: メリー
+  member:
+    - 志保
+    - 可奈
+  cover: true
+  mltd:
+    date: 2018.12.25
+    event: ミリオンフェス
+  release:
+    date: 2019.06.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 5
+
+- song: 自転車
+  member:
+    - 可奈
+  cover: true
+  release:
+    date: 2020.03.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 6
+
+- song: チクタク
+  member:
+    - ひなた
+  cover: true
+  release:
+    date: 2020.03.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 6
+
+- song: Vertex Meister
+  member:
+    - 海美
+    - 美也
+  cover: true
+  release:
+    date: 2020.08.26
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 7
+
+- song: Just be myself!!
+  member:
+    - 莉緒
+    - 歌織
+  cover: true
+  release:
+    date: 2020.08.26
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 7
+
+- song: スタートリップ
+  member:
+    - ジュリア
+    - 星梨花
+    - 千鶴
+  cover: true
+  release:
+    date: 2021.01.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 8
+
+- song: 聖炎の女神
+  member:
+    - 恵美
+    - 朋花
+  cover: true
+  release:
+    date: 2021.01.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 8
+
+- song: アマテラス
+  member:
+    - エミリー
+    - ひなた
+  cover: true
+  release:
+    date: 2021.07.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 9
+
+- song: カーテンコール
+  member:
+    - 朋花
+    - 莉緒
+  cover: true
+  release:
+    date: 2021.07.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 9
+
+- song: DIAMOND
+  member:
+    - 伊織
+    - 昴
+  cover: true
+  release:
+    date: 2022.01.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 10
+
+- song: Happy!
+  member:
+    - 可奈
+    - のり子
+    - 桃子
+  cover: true
+  release:
+    date: 2022.01.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 10
+
+- song: shy→shining
+  member:
+    - 千早
+    - 志保
+  cover: true
+  release:
+    date: 2022.06.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 11
+
+- song: my song
+  member:
+    - 桃子
+    - のり子
+    - 杏奈
+  cover: true
+  release:
+    date: 2022.06.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 11
+
+- song: MEGARE! (M@STER VERSION)
+  member:
+    - 風花
+    - 瑞希
+  cover: true
+  release:
+    date: 2022.11.26
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 12
+
+- song: キミがいて夢になる
+  member:
+    - 可奈
+    - 海美
+  cover: true
+  release:
+    date: 2022.11.26
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 12
+
+- song: Bigバルーン◎
+  member:
+    - 杏奈
+    - ロコ
+  cover: true
+  release:
+    date: 2023.02.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 13
+
+- song: 魔法をかけて! (M@STER VERSION)
+  member:
+    - まつり
+    - のり子
+    - 歩
+  cover: true
+  release:
+    date: 2023.02.27
+    disc: アイドルマスター ミリオンライブ！ Blooming Clover 13
+
+- song: 地球儀にない国 -Live Sound Mix-
+  member:
+    - 百合子
+  cover: true
+  release:
+    date: 2018.10.31
+    disc: THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song 1
+
+- song: 瑠璃色金魚と花菖蒲 -Live Sound Mix-	
+  member:
+    - 紬
+  cover: true
+  release:
+    date: 2018.10.31
+    disc: THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song 1
 
 - song: Large Size Party
   member:
@@ -2778,6 +3170,30 @@
     date: 2020.07.02
     disc: THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song 3
 
+- song: Little Match Girl
+  member:
+    - 美奈子
+    - 瑞希
+  cover: true
+  mltd:
+    date: 2020.12.25
+    event: ミリオンフェス
+  release:
+    date: 2021.07.09
+    disc: THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song 4
+
+- song: Miracle Night
+  member:
+    - 千早
+    - 紗代子
+  cover: true
+  mltd:
+    date: 2021.12.25
+    event: ミリオンフェス
+  release:
+    date: 2022.07.25
+    disc: THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song 5
+
 # コロンビア
 - song: メリー
   member:
@@ -2786,15 +3202,6 @@
     - やよい
     - 真
     - 美希
-  mltd:
-    date: 2018.12.25
-    event: ミリオンフェス
-
-- song: メリー
-  member:
-    - 志保
-    - 可奈
-  cover: true
   mltd:
     date: 2018.12.25
     event: ミリオンフェス
@@ -2820,11 +3227,24 @@
     date: 2019.06.27
     event: ミリオンフェス
 
+- song: MUSIC♪
+  unit: 765PRO ALLSTARS
+  cover: true
+  mltd:
+    date: 2021.07.28
+
 - song: きゅんっ!ヴァンパイアガール
   member:
     - 伊織
     - 育
     - 桃子
+  cover: true
+  mltd:
+    date: 2019.09.27
+    event: ミリオンフェス
+
+- song: きゅんっ!ヴァンパイアガール
+  unit: 765PRO ALLSTARS
   cover: true
   mltd:
     date: 2019.09.27
@@ -2848,11 +3268,25 @@
     date: 2020.03.29
     event: ミリオンフェス
 
+- song: shiny smile
+  unit: 765PRO ALLSTARS
+  cover: true
+  mltd:
+    date: 2020.03.29
+    event: ミリオンフェス
+
 - song: ラムネ色 青春
   member:
     - 美也
     - まつり
     - 朋花
+  cover: true
+  mltd:
+    date: 2020.06.28
+    event: ミリオンフェス
+
+- song: ラムネ色 青春
+  unit: 765PRO ALLSTARS
   cover: true
   mltd:
     date: 2020.06.28
@@ -2867,10 +3301,15 @@
     date: 2020.09.28
     event: ミリオンフェス
 
+- song: 99 Nights
+  unit: 765PRO ALLSTARS
+  cover: true
+  mltd:
+    date: 2020.09.28
+    event: ミリオンフェス
+
 - song: Little Match Girl
-  member:
-    - 美奈子
-    - 瑞希
+  unit: 765PRO ALLSTARS
   cover: true
   mltd:
     date: 2020.12.25
@@ -2906,6 +3345,13 @@
     date: 2021.06.28
     event: ミリオンフェス
 
+- song: edeN
+  unit: 765PRO ALLSTARS
+  cover: true
+  mltd:
+    date: 2021.06.28
+    event: ミリオンフェス
+
 - song: 聖炎の女神
   member:
     - ひなた
@@ -2924,9 +3370,7 @@
     event: ミリオンフェス
 
 - song: Miracle Night
-  member:
-    - 千早
-    - 紗代子
+  unit: 765PRO ALLSTARS
   cover: true
   mltd:
     date: 2021.12.25
@@ -2941,10 +3385,24 @@
     date: 2022.03.28
     event: ミリオンフェス
 
+- song: Honey Heartbeat
+  unit: 765PRO ALLSTARS
+  cover: true
+  mltd:
+    date: 2022.03.28
+    event: ミリオンフェス
+
 - song: The world is all one !!
   member:
     - ロコ
     - このみ
+  cover: true
+  mltd:
+    date: 2022.06.28
+    event: ミリオンフェス
+
+- song: The world is all one !!
+  unit: 765PRO ALLSTARS
   cover: true
   mltd:
     date: 2022.06.28
@@ -2997,7 +3455,7 @@
     event: プラチナスターツアースペシャル～LINK ST@RT!～
 
 # CD未発売
-- song: Do the IDOL!! ～断崖絶壁チュパカブラ～
+- song: Do the IDOL!! ～謹賀新年リミックス～
   member: 
     - 朋花
     - エミリー
