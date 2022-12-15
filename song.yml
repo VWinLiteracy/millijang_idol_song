@@ -1509,6 +1509,9 @@
   release: 
     date: 2019.04.24
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 16 ピコピコプラネッツ
+  mltd:
+    date: 2022.11.30
+    event: プラチナスターチューン～Get lol! Get lol! SONG～
 
 - song: Episode. Tiara
   unit: STAR ELEMENTS
@@ -3194,7 +3197,7 @@
     date: 2022.07.25
     disc: THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song 5
 
-# コロンビア
+# CS曲
 - song: メリー
   member:
     - 春香
@@ -3476,4 +3479,17 @@
     - 桃子
     - 千鶴
   mltd:
+    date: 2022.11.17
     event: プラチナスタータイム～RisingLight～
+
+- song: Supersonic Booster!
+  unit: ShineLight
+  member:
+    - 律子
+    - 百合子
+    - 麗花
+    - エレナ
+    - このみ
+  mltd:
+    date: 2022.11.17
+    event: プラチナスタータイム～ShineLight～
