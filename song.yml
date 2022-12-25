@@ -3232,7 +3232,6 @@
 
 - song: MUSIC♪
   unit: 765PRO ALLSTARS
-  cover: true
   mltd:
     date: 2021.07.28
 
@@ -3248,7 +3247,6 @@
 
 - song: きゅんっ!ヴァンパイアガール
   unit: 765PRO ALLSTARS
-  cover: true
   mltd:
     date: 2019.09.27
     event: ミリオンフェス
@@ -3273,7 +3271,6 @@
 
 - song: shiny smile
   unit: 765PRO ALLSTARS
-  cover: true
   mltd:
     date: 2020.03.29
     event: ミリオンフェス
@@ -3290,7 +3287,6 @@
 
 - song: ラムネ色 青春
   unit: 765PRO ALLSTARS
-  cover: true
   mltd:
     date: 2020.06.28
     event: ミリオンフェス
@@ -3306,14 +3302,12 @@
 
 - song: 99 Nights
   unit: 765PRO ALLSTARS
-  cover: true
   mltd:
     date: 2020.09.28
     event: ミリオンフェス
 
 - song: Little Match Girl
   unit: 765PRO ALLSTARS
-  cover: true
   mltd:
     date: 2020.12.25
     event: ミリオンフェス
@@ -3350,7 +3344,6 @@
 
 - song: edeN
   unit: 765PRO ALLSTARS
-  cover: true
   mltd:
     date: 2021.06.28
     event: ミリオンフェス
@@ -3374,7 +3367,6 @@
 
 - song: Miracle Night
   unit: 765PRO ALLSTARS
-  cover: true
   mltd:
     date: 2021.12.25
     event: ミリオンフェス
@@ -3390,7 +3382,6 @@
 
 - song: Honey Heartbeat
   unit: 765PRO ALLSTARS
-  cover: true
   mltd:
     date: 2022.03.28
     event: ミリオンフェス
@@ -3406,7 +3397,6 @@
 
 - song: The world is all one !!
   unit: 765PRO ALLSTARS
-  cover: true
   mltd:
     date: 2022.06.28
     event: ミリオンフェス
@@ -3426,6 +3416,23 @@
     - 千早
   mltd:
     date: 2022.09.27
+    event: ミリオンフェス
+
+- song: CRIMSON LOVERS
+  member:
+    - 昴
+    - 亜利沙
+  cover: true
+  mltd:
+    date: 2022.12.25
+    event: ミリオンフェス
+
+- song: CRIMSON LOVERS
+  member:
+    - 千早
+    - 春香
+  mltd:
+    date: 2022.12.25
     event: ミリオンフェス
 
 - song: スタ→トスタ→
