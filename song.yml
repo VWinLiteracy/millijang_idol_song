@@ -551,6 +551,9 @@
   release: 
     date: 2015.12.02
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 03
+  mltd:
+    date: 2023.01.02
+    event: プラチナスターシアター～Decided～
 
 - song: 深層マーメイド
   member: 
@@ -2754,6 +2757,12 @@
     date: 2020.04.29
     disc: THE IDOLM@STER MILLION RADIO! ENDLESS TOUR
 
+- song: Crossing!
+  unit: 765 MILLION ALLSTARS
+  release:
+    date: 2023.03.22
+    disc: THE IDOLM@STER 765 MILLION ALLSTARS BEST
+
 # コミカライズ
 - song: 蒼い鳥
   member:
@@ -3477,6 +3486,8 @@
     date: 2021.01.01
     event: スペシャルコミュ
 
+- song: セブンカウント
+
 - song: サウンド・オブ・ビギニング
   unit: RisingLight
   member:
@@ -3500,3 +3511,15 @@
   mltd:
     date: 2022.12.17
     event: プラチナスタータイム～ShineLight～
+
+- song: オレンジ・エピソード
+  unit: EmotionLight
+  member:
+    - 志保
+    - 歩
+    - 春香
+    - 美奈子
+    - 亜利沙
+  mltd:
+    date: 2023.01.18
+    event: プラチナスタータイム～EmotionLight～
