@@ -948,6 +948,9 @@
   release: 
     date: 2017.02.15
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody
+  mltd:
+    date: 2023.03.01
+    event: プラチナスターシアター～Sweet Sweet Soul～
 
 - song: メメント？モメント♪ルルルルル☆
   unit: タウラス
@@ -2546,6 +2549,65 @@
     date: 2022.10.26
     disc: THE IDOLM@STER MILLION THE@TER SEASON SHADE OF SPADE
 
+- song: サウンド・オブ・ビギニング
+  unit: RisingLight
+  member:
+    - 琴葉
+    - 美也
+    - ロコ
+    - 桃子
+    - 千鶴
+  mltd:
+    date: 2022.11.17
+    event: プラチナスタータイム～RisingLight～
+  release:
+    date: 2023.02.22
+    disc: THE IDOLM@STER MILLION THE@TER SEASON FINAL
+
+- song: Supersonic Booster!
+  unit: ShineLight
+  member:
+    - 律子
+    - 百合子
+    - 麗花
+    - エレナ
+    - このみ
+  mltd:
+    date: 2022.12.17
+    event: プラチナスタータイム～ShineLight～
+  release:
+    date: 2023.02.22
+    disc: THE IDOLM@STER MILLION THE@TER SEASON FINAL
+
+- song: オレンジ・エピソード
+  unit: EmotionLight
+  member:
+    - 志保
+    - 歩
+    - 春香
+    - 美奈子
+    - 亜利沙
+  mltd:
+    date: 2023.01.18
+    event: プラチナスタータイム～EmotionLight～
+  release:
+    date: 2023.02.22
+    disc: THE IDOLM@STER MILLION THE@TER SEASON FINAL
+
+- song: Like twinkling STARS
+  unit: FantasicLight
+  member:
+    - 可憐
+    - 真美
+    - 貴音
+    - エミリー
+    - 風花
+  mltd:
+    event: プラチナスタータイム～EmotionLight～
+  release:
+    date: 2023.02.22
+    disc: THE IDOLM@STER MILLION THE@TER SEASON FINAL
+
 # MTV
 - song: ワールド・アスレチック・COOK-KING ～勝者必食！？スポ食の秋～
   member:
@@ -2689,6 +2751,15 @@
     date: 2022.05.15
     event: スペシャルコミュ
 
+- song: Crossing!
+  unit: 765 MILLION ALLSTARS
+   mltd:
+    date: 2023.02.14
+    event: MILLION LIVE! 10th ANNIVERSARY ～Beyond @ Crossing～
+  release:
+    date: 2023.03.22
+    disc: THE IDOLM@STER 765 MILLION ALLSTARS BEST
+
 # ミリラジ
 - song: U・N・M・E・I ライブ
   member:
@@ -2756,12 +2827,6 @@
   release:
     date: 2020.04.29
     disc: THE IDOLM@STER MILLION RADIO! ENDLESS TOUR
-
-- song: Crossing!
-  unit: 765 MILLION ALLSTARS
-  release:
-    date: 2023.03.22
-    disc: THE IDOLM@STER 765 MILLION ALLSTARS BEST
 
 # コミカライズ
 - song: 蒼い鳥
@@ -3460,19 +3525,6 @@
     date: 2020.04.28
     event: メインコミュ
 
-# 一般カバー
-- song: IGNITE
-  member:
-    - 瑞希
-    - 翼
-    - ジュリア
-    - 琴葉
-    - 星梨花
-  cover: true
-  mltd:
-    date: 2022.02.17
-    event: プラチナスターツアースペシャル～LINK ST@RT!～
-
 # CD未発売
 - song: Do the IDOL!! ～謹賀新年リミックス～
   member: 
@@ -3486,53 +3538,27 @@
     date: 2021.01.01
     event: スペシャルコミュ
 
+- song: IGNITE
+  member:
+    - 瑞希
+    - 翼
+    - ジュリア
+    - 琴葉
+    - 星梨花
+  cover: true
+  mltd:
+    date: 2022.02.17
+    event: プラチナスターツアースペシャル～LINK ST@RT!～
+
 - song: セブンカウント
 
-- song: Crossing!
-
-- song: サウンド・オブ・ビギニング
-  unit: RisingLight
+- song: 春風満帆スターティング
   member:
-    - 琴葉
-    - 美也
-    - ロコ
-    - 桃子
-    - 千鶴
+    - 雪歩
+    - 真
+    - のり子
+    - 昴
+    - 静香
   mltd:
-    date: 2022.11.17
-    event: プラチナスタータイム～RisingLight～
-
-- song: Supersonic Booster!
-  unit: ShineLight
-  member:
-    - 律子
-    - 百合子
-    - 麗花
-    - エレナ
-    - このみ
-  mltd:
-    date: 2022.12.17
-    event: プラチナスタータイム～ShineLight～
-
-- song: オレンジ・エピソード
-  unit: EmotionLight
-  member:
-    - 志保
-    - 歩
-    - 春香
-    - 美奈子
-    - 亜利沙
-  mltd:
-    date: 2023.01.18
-    event: プラチナスタータイム～EmotionLight～
-
-- song: Like twinkling STARS
-  unit: FantasicLight
-  member:
-    - 可憐
-    - 真美
-    - 貴音
-    - エミリー
-    - 風花
-  mltd:
-    event: プラチナスタータイム～EmotionLight～
+    date: 2023.03.18
+    event: プラチナスタートラスト～春風満帆✿お花見パーティー～
