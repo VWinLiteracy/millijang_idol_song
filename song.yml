@@ -3509,6 +3509,25 @@
     date: 2022.12.25
     event: ミリオンフェス
 
+- song: おとなのはじまり
+  member:
+    - 亜美
+    - 千鶴
+  cover: true
+  mltd:
+    date: 2023.03.29
+    event: ミリオンフェス
+
+- song: おとなのはじまり
+  member:
+    - 伊織
+    - やよい
+    - 亜美
+    - 真美
+  mltd:
+    date: 2023.03.29
+    event: ミリオンフェス
+
 - song: スタ→トスタ→
   member:
     - 真美
