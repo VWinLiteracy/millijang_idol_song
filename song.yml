@@ -535,6 +535,9 @@
   release: 
     date: 2015.12.02
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 03
+  mltd:
+    date: 2023.04.02
+    event: プラチナスターシアター～Cut. Cut. Cut.～
 
 - song: Smiling Crescent
   member: 
@@ -3581,3 +3584,13 @@
   mltd:
     date: 2023.03.18
     event: プラチナスタートラスト～春風満帆✿お花見パーティー～
+
+- song: リベレイシング／アロン -LiberaSing Along-
+  member:
+    - 千早
+    - 朋花
+    - ひなた
+    - まつり
+    - このみ
+  mltd:
+    event: プラチナスタートラストスペシャル～アイドルスペースウォーズ -LiberaSing Along-～
