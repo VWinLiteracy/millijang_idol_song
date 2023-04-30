@@ -2606,6 +2606,7 @@
     - エミリー
     - 風花
   mltd:
+    date: 2023.01.31
     event: プラチナスタータイム～EmotionLight～
   release:
     date: 2023.02.22
@@ -2830,6 +2831,25 @@
   release:
     date: 2020.04.29
     disc: THE IDOLM@STER MILLION RADIO! ENDLESS TOUR
+
+- song: SECOND LIVINGROOM
+  member:
+    - 未来
+    - 静香
+    - 星梨花
+  release:
+    date: 2023.03.29
+    disc: THE IDOLM@STER MILLION RADIO! SECOND LIVINGROOM
+
+- song: U・N・M・E・I ライブ -MR remix-
+  member:
+    - 未来
+    - 静香
+    - 星梨花
+  cover: true
+  release:
+    date: 2023.03.29
+    disc: THE IDOLM@STER MILLION RADIO! SECOND LIVINGROOM
 
 # コミカライズ
 - song: 蒼い鳥
@@ -3593,4 +3613,12 @@
     - まつり
     - このみ
   mltd:
+    date: 2023.04.19
     event: プラチナスタートラストスペシャル～アイドルスペースウォーズ -LiberaSing Along-～
+
+- song: 電波感傷
+  member:
+    - 紬
+    - 歌織
+  mltd:
+    event: プラチナスターツアー
