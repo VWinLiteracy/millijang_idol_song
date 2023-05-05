@@ -3294,6 +3294,28 @@
     date: 2022.07.25
     disc: THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song 5
 
+- song: わたしは花、あなたは太陽
+  unit: FleurS
+  member: 
+    - 百合子
+    - このみ
+    - 桃子
+  release: 
+    date: 2023.05.26
+    disc: THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song 6
+
+- song: CRIMSON LOVERS
+  member:
+    - 昴
+    - 亜利沙
+  cover: true
+  mltd:
+    date: 2022.12.25
+    event: ミリオンフェス
+  release: 
+    date: 2023.05.26
+    disc: THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song 6
+
 # CS曲
 - song: メリー
   member:
@@ -3513,15 +3535,6 @@
     - 千早
   mltd:
     date: 2022.09.27
-    event: ミリオンフェス
-
-- song: CRIMSON LOVERS
-  member:
-    - 昴
-    - 亜利沙
-  cover: true
-  mltd:
-    date: 2022.12.25
     event: ミリオンフェス
 
 - song: CRIMSON LOVERS
