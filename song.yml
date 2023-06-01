@@ -16,6 +16,9 @@
   release: 
     date: 2013.05.29
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 02
+  mltd:
+    date: 2023.05.31
+    event: プラチナスターシアター～Legend Girls!!～
 
 - song: PRETTY DREAMER
   member: 
@@ -489,6 +492,10 @@
   release: 
     date: 2015.10.28
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 02
+  mltd:
+    date: 2023.05.09
+    event: プラチナスターシアター～エスケープ～
+
 
 - song: Eternal Spiral
   member: 
@@ -2677,6 +2684,34 @@
     date: 2022.12.14
     disc: THE IDOLM@STER MILLION THE@TER VARIETY 02
 
+- song: 春風満帆スターティング
+  member:
+    - 雪歩
+    - 真
+    - のり子
+    - 昴
+    - 静香
+  mltd:
+    date: 2023.03.18
+    event: プラチナスタートラスト～春風満帆✿お花見パーティー～
+  release:
+    date: 2023.05.31
+    disc: THE IDOLM@STER MILLION THE@TER VARIETY 03
+
+- song: リベレイシング／アロン -LiberaSing Along-
+  member:
+    - 千早
+    - 朋花
+    - ひなた
+    - まつり
+    - このみ
+  mltd:
+    date: 2023.04.19
+    event: プラチナスタートラストスペシャル アイドルスペースウォーズ～LiberaSing Along～
+  release:
+    date: 2023.05.31
+    disc: THE IDOLM@STER MILLION THE@TER VARIETY 03
+
 # その他CD
 - song: Thank You!
   member:
@@ -2759,7 +2794,7 @@
   unit: 765 MILLION ALLSTARS
   mltd:
     date: 2023.02.14
-    event: MILLION LIVE! 10th ANNIVERSARY ～Beyond @ Crossing～
+    event: MILLION LIVE! 10th ANNIVERSARY～Beyond @ Crossing～
   release:
     date: 2023.03.22
     disc: THE IDOLM@STER 765 MILLION ALLSTARS BEST
@@ -3607,31 +3642,21 @@
 
 - song: セブンカウント
 
-- song: 春風満帆スターティング
-  member:
-    - 雪歩
-    - 真
-    - のり子
-    - 昴
-    - 静香
-  mltd:
-    date: 2023.03.18
-    event: プラチナスタートラスト～春風満帆✿お花見パーティー～
-
-- song: リベレイシング／アロン -LiberaSing Along-
-  member:
-    - 千早
-    - 朋花
-    - ひなた
-    - まつり
-    - このみ
-  mltd:
-    date: 2023.04.19
-    event: プラチナスタートラストスペシャル～アイドルスペースウォーズ -LiberaSing Along-～
-
 - song: 電波感傷
+  unit: オフィウクス
   member:
-    - 紬
     - 歌織
+    - 紬
   mltd:
-    event: プラチナスターツアー
+    date: 2023.05.19
+    event: プラチナスターツアー～電波感傷～
+
+- song: 夢みがちBride
+  member:
+    - 響
+    - 瑞希
+    - 奈緒
+    - 美也
+    - 海美
+  mltd:
+    event: プラチナスターツアービンゴ～夢みがちBride～
