@@ -3599,6 +3599,25 @@
     date: 2023.03.29
     event: ミリオンフェス
 
+- song: アマテラス
+  member:
+    - 雪歩
+    - 歩
+  cover: true
+  mltd:
+    date: 2023.06.28
+    event: ミリオンフェス
+
+- song: アマテラス
+  member:
+    - 雪歩
+    - あずさ
+    - 貴音
+    - 律子
+  mltd:
+    date: 2023.06.28
+    event: ミリオンフェス
+
 - song: スタ→トスタ→
   member:
     - 真美
@@ -3659,4 +3678,21 @@
     - 美也
     - 海美
   mltd:
+    date: 2023.06.16
     event: プラチナスターツアービンゴ～夢みがちBride～
+
+- song: グッドサイン
+  unit: 765 MILLION ALLSTARS
+  mltd:
+    date: 2023.06.30
+    event: R@ise a Good Sign!
+
+- song: カンパリーナ♡
+  member:
+    - あずさ
+    - 千鶴
+    - 貴音
+    - 風花
+    - 麗花
+  mltd:
+    event: プラチナスタートラスト～夏夜絢爛☆ナイトプールパーティー！～
