@@ -1,0 +1,118 @@
+- song: Thank You!
+  member:
+    - 杏奈
+    - 百合子
+    - 志保
+    - このみ
+    - エミリー
+  cover: true
+  release:
+    disc: THE IDOLM@STER LIVE THE@TER SELECTION
+
+- song: カーテシーフラワー
+  member:
+    - 海美
+    - あずさ
+    - 育
+  mltd:
+    date: 2020.12.18
+    event: プラチナスターテール～聖ミリオン女学園 はじまりの花～
+  release:
+    date: 2022.03.16
+    disc: THE IDOLM@STER MILLION LIVE! 聖ミリオン女学園
+
+- song: 聖ミリオン女学園校歌
+  member:
+    - 昴
+    - 千早
+    - 可憐
+  release:
+    date: 2022.03.16
+    disc: THE IDOLM@STER MILLION LIVE! 聖ミリオン女学園
+
+- song: 花びらメモリーズ
+  member:
+    - 紬
+    - 美奈子
+    - 桃子
+    - 恵美
+  mltd:
+    date: 2021.06.17
+    event: プラチナスターテール～聖ミリオン女学園 あなたへの花束～
+  release:
+    date: 2022.03.16
+    disc: THE IDOLM@STER MILLION LIVE! 聖ミリオン女学園
+
+- song: なんどでも笑おう
+  member:
+    - 未来
+    - 静香
+    - 翼
+  cover: true
+  release:
+    date: 2020.09.30
+    disc: THE IDOLM@STERシリーズ15周年記念曲 「なんどでも笑おう」 【ミリオンライブ！盤】
+  mltd:
+    date: 2021.01.02
+    event: プラチナスターシアタースペシャル～なんどでも笑おう～
+
+- song: なんどでも笑おう
+  unit: 765PRO ALLSTARS
+  cover: true
+  mltd:
+    date: 2022.07.10
+
+- song: VOY@GER
+  cover: true
+  member:
+    - 海美
+    - 紬
+    - 杏奈
+  release:
+    date: 2021.08.04
+    disc: THE IDOLM@STERシリーズ イメージソング2021「VOY@GER」 【ミリオンライブ！盤】
+  mltd:
+    date: 2022.05.15
+    event: スペシャルコミュ
+
+- song: Crossing!
+  unit: 765 MILLION ALLSTARS
+  mltd:
+    date: 2023.02.14
+    event: MILLION LIVE! 10th ANNIVERSARY～Beyond @ Crossing～
+  release:
+    date: 2023.03.22
+    disc: THE IDOLM@STER 765 MILLION ALLSTARS BEST
+
+- song: グッドサイン
+  unit: 765 MILLION ALLSTARS
+  mltd:
+    date: 2023.06.30
+    event: R@ise a Good Sign!
+  release:
+    date: 2023.07.26
+    disc: THE IDOLM@STER MILLION LIVE! グッドサイン
+
+- song: 電波感傷
+  unit: オフィウクス
+  member:
+    - 歌織
+    - 紬
+  mltd:
+    date: 2023.05.19
+    event: プラチナスターツアー～電波感傷～
+  release:
+    date: 2023.07.26
+    disc: THE IDOLM@STER MILLION LIVE! グッドサイン
+
+- song: Rat A Tat!!!
+  unit: MILLIONSTARS
+  release: 
+    date: 2023.08.23
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER 『Rat A Tat!!!』
+
+- song: セブンカウント
+  unit: MILLIONSTARS
+  release: 
+    date: 2023.08.23
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER 『Rat A Tat!!!』

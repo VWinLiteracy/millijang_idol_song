@@ -1,0 +1,77 @@
+- song: Girl meets Wonder
+  member: 
+    - 星梨花
+    - 桃子
+    - まつり
+    - 響
+    - 昴
+  mltd:
+    date: 2019.09.19
+    event: プラチナスターツアー～Girl meets Wonder～
+  release:
+    date: 2019.10.30
+    disc: THE IDOLM@STER THE@TER CHALLENGE 01
+
+- song: DIAMOND DAYS
+  member: 
+    - 星梨花
+    - 桃子
+    - まつり
+    - 響
+    - 昴
+  cover: true
+  release:
+    date: 2019.10.30
+    disc: THE IDOLM@STER THE@TER CHALLENGE 01
+
+- song: World Changer
+  member: 
+    - 千早
+    - 美希
+    - エミリー
+    - 真
+    - 春香
+  mltd:
+    date: 2019.10.20
+    event: プラチナスターツアー～World Changer～
+  release:
+    date: 2019.11.27
+    disc: THE IDOLM@STER THE@TER CHALLENGE 02
+
+- song: DIAMOND DAYS
+  member: 
+    - 千早
+    - 美希
+    - エミリー
+    - 真
+    - 春香
+  cover: true
+  release:
+    date: 2019.11.27
+    disc: THE IDOLM@STER THE@TER CHALLENGE 02
+
+- song: クルリウタ
+  member: 
+    - 茜
+    - エレナ
+    - 歌織
+    - 千鶴
+    - 志保
+  mltd:
+    date: 2020.04.19
+    event: プラチナスターツアー～クルリウタ～
+  release:
+    date: 2020.07.29
+    disc: THE IDOLM@STER THE@TER CHALLENGE 03
+
+- song: DIAMOND DAYS
+  member: 
+    - 茜
+    - エレナ
+    - 歌織
+    - 千鶴
+    - 志保
+  cover: true
+  release:
+    date: 2020.07.29
+    disc: THE IDOLM@STER THE@TER CHALLENGE 03
