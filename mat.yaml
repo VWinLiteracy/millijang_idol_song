@@ -1,0 +1,52 @@
+- song: Rat A Tat!!!
+  unit: MILLIONSTARS
+  release: 
+    date: 2023.08.23
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER 『Rat A Tat!!!』
+  mltd:
+    date: 2023.09.17
+    event: プラチナスターツアービンゴスペシャル～Rat A Tat!!!～
+
+- song: セブンカウント
+  unit: MILLIONSTARS
+  release: 
+    date: 2023.08.23
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER 『Rat A Tat!!!』
+
+- song: Star Impression
+  unit: MILLIONSTARS Team1st
+  member:
+    - 美奈子
+    - 志保
+    - 朋花
+    - 杏奈
+  release: 
+    date: 2023.09.20
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team1st 『Star Impression』
+  mltd:
+    event: プラチナスターチーム～Star Impression～
+
+- song: 海風とカスタネット
+  unit: MILLIONSTARS Team2nd
+  member:
+    - 海美
+    - 可憐
+    - のり子
+    - 瑞希
+    - 莉緒
+  release: 
+    date: 2023.09.20
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team2nd 『海風とカスタネット』
+
+- song: catch my feeling
+  unit: MILLIONSTARS Team4th
+  member:
+    - このみ
+    - 桃子
+    - 千鶴
+    - 亜利沙
+    - 奈緒
+    - ロコ
+  release: 
+    date: 2023.09.20
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team4th『catch my feeling』

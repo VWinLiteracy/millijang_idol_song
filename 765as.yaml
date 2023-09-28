@@ -285,3 +285,18 @@
   mltd:
     date: 2023.08.18
     event: プラチナスタートレジャースペシャル～M@STERPIECE～
+
+- song: CHANGE!!!!
+  member:
+    - 真美
+    - 律子
+  cover: true
+  mltd:
+    date: 2023.09.28
+    event: ミリオンフェス
+
+- song: CHANGE!!!!
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2023.09.28
+    event: ミリオンフェス

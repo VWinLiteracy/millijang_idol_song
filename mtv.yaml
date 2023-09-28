@@ -89,3 +89,45 @@
   release:
     date: 2023.05.31
     disc: THE IDOLM@STER MILLION THE@TER VARIETY 03
+
+- song: 夢みがちBride
+  member:
+    - 響
+    - 奈緒
+    - 海美
+    - 瑞希
+    - 美也
+  mltd:
+    date: 2023.06.16
+    event: プラチナスターツアービンゴ～夢みがちBride～
+  release:
+    date: 2023.09.27
+    disc: THE IDOLM@STER MILLION THE@TER VARIETY 04
+
+- song: カンパリーナ♡
+  member:
+    - あずさ
+    - 千鶴
+    - 麗花
+    - 貴音
+    - 風花
+  mltd:
+    date: 2023.07.19
+    event: プラチナスタートラスト～夏夜絢爛☆ナイトプールパーティー！～
+  release:
+    date: 2023.09.27
+    disc: THE IDOLM@STER MILLION THE@TER VARIETY 04
+
+- song: Dance in the Light
+  member:
+    - 歩
+    - 伊織
+    - 紗代子
+    - 莉緒
+    - 昴
+  mltd:
+    date: 2023.09.01
+    event: プラチナスタートラスト～Crazy for DANCE!～
+  release:
+    date: 2023.09.27
+    disc: THE IDOLM@STER MILLION THE@TER VARIETY 04
