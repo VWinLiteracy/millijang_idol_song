@@ -4,6 +4,9 @@
   release: 
     date: 2013.04.24
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 01 Thank You!
+  mltd:
+    date: 2020.07.29
+    event: メインコミュ 第10話
 
 - song: キラメキ進行形
   member: 
@@ -13,7 +16,7 @@
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 02
   mltd:
     date: 2020.07.29
-    event: メインコミュ
+    event: メインコミュ 第68話
 
 - song: 透明なプロローグ
   member: 
@@ -23,7 +26,7 @@
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 02
   mltd:
     date: 2017.06.29
-    event: メインコミュ
+    event: メインコミュ 第6話
 
 - song: トキメキの音符になって
   member: 
@@ -33,7 +36,7 @@
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 02
   mltd:
     date: 2017.06.29
-    event: メインコミュ
+    event: メインコミュ 第7話
 
 - song: Maria Trap
   member: 
@@ -43,7 +46,7 @@
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 02
   mltd:
     date: 2019.02.28
-    event: メインコミュ
+    event: メインコミュ 第35話
 
 - song: Precious Grain
   member: 
@@ -53,7 +56,7 @@
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 02
   mltd:
     date: 2017.06.29
-    event: メインコミュ
+    event: メインコミュ 第2話
 
 - song: Legend Girls!!
   member: 
@@ -68,6 +71,56 @@
   mltd:
     date: 2023.05.31
     event: プラチナスターシアター～Legend Girls!!～
+
+- song: 素敵なキセキ
+  member: 
+    - 未来
+  release: 
+    date: 2013.06.26
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 03
+  mltd:
+    date: 2017.06.29
+    event: メインコミュ 第1話
+
+- song: ハッピー☆ラッキー☆ジェットマシーン
+  member: 
+    - 奈緒
+  release: 
+    date: 2013.06.26
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 03
+  mltd:
+    date: 2017.09.20
+    event: メインコミュ 第11話
+
+- song: Happy Darling
+  member: 
+    - 杏奈
+  release: 
+    date: 2013.06.26
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 03
+  mltd:
+    date: 2017.11.10
+    event: メインコミュ 第13話
+
+- song: オレンジの空の下
+  member: 
+    - 風花
+  release: 
+    date: 2013.06.26
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 03
+  mltd:
+    date: 2019.06.11
+    event: メインコミュ 第42話
+
+- song: Rebellion
+  member: 
+    - 響
+  release: 
+    date: 2013.06.26
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 03
+  mltd:
+    date: 2019.06.28
+    event: メインコミュ 第43話
 
 - song: PRETTY DREAMER
   member: 

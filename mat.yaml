@@ -24,6 +24,7 @@
     date: 2023.09.20
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team1st 『Star Impression』
   mltd:
+    date: 2023.10.02
     event: プラチナスターチーム～Star Impression～
 
 - song: 海風とカスタネット
@@ -38,6 +39,18 @@
     date: 2023.09.20
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team2nd 『海風とカスタネット』
 
+- song: オレンジノキオク
+  unit: MILLIONSTARS Team3rd
+  member:
+    - 琴葉
+    - 環
+    - 恵美
+    - 風花
+    - 百合子
+  release: 
+    date: 2023.10.25
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team3rd 『オレンジノキオク』
+
 - song: catch my feeling
   unit: MILLIONSTARS Team4th
   member:
@@ -50,3 +63,50 @@
   release: 
     date: 2023.09.20
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team4th『catch my feeling』
+
+- song: バトンタッチ
+  unit: MILLIONSTARS Team5th
+  member:
+    - 紗代子
+    - 育
+    - 茜
+    - 星梨花
+    - 美也
+  release: 
+    date: 2023.10.25
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team5th 『バトンタッチ』
+
+- song: Unknown Boxの開き方
+  unit: MILLIONSTARS Team6th
+  member:
+    - 紗代子
+    - 育
+    - 茜
+    - 星梨花
+    - 美也
+  release: 
+    date: 2023.10.25
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team6th 『Unknown Boxの開き方』
+
+- song: トワラー
+  unit: MILLIONSTARS Team7th
+  member:
+    - ジュリア
+    - 麗花
+    - 歩
+    - 可奈
+  release: 
+    date: 2023.10.25
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team7th 『トワラー』
+
+- song: REFRAIN REL@TION
+  unit: MILLIONSTARS Team8th
+  member:
+    - 未来
+    - 静香
+    - 翼
+    - 歌織
+    - 紬
+  release: 
+    date: 2023.10.25
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team8th 『REFRAIN REL@TION』
