@@ -1,10 +1,10 @@
 - song: ランニング・ハイッ
   unit: キャンサー
-  member: 
+  member:
     - エミリー
     - ひなた
     - 奈緒
-  release: 
+  release:
     date: 2016.12.07
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 01 Sunshine Rhythm
   mltd:
@@ -13,11 +13,11 @@
 
 - song: ゲキテキ！ムテキ！恋したい！
   unit: レオ
-  member: 
+  member:
     - エレナ
     - 育
     - ロコ
-  release: 
+  release:
     date: 2016.12.07
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 01 Sunshine Rhythm
   mltd:
@@ -26,11 +26,11 @@
 
 - song: Bonnes! Bonnes!! Vacances!!!
   unit: リブラ
-  member: 
+  member:
     - 翼
     - 美奈子
     - のり子
-  release: 
+  release:
     date: 2016.12.07
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 01 Sunshine Rhythm
   mltd:
@@ -39,11 +39,11 @@
 
 - song: NO CURRY NO LIFE
   unit: カプリコーン
-  member: 
+  member:
     - 杏奈
     - 莉緒
     - 可奈
-  release: 
+  release:
     date: 2016.12.07
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 01 Sunshine Rhythm
   mltd:
@@ -66,7 +66,7 @@
     - 奈緒
     - ロコ
   cover: true
-  release: 
+  release:
     date: 2016.12.07
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 01 Sunshine Rhythm
 
@@ -100,17 +100,17 @@
     - ロコ
   mltd:
     date: 2019.02.14
-  release: 
+  release:
     date: 2019.02.15
     disc: 配信限定
 
 - song: Raise the FLAG
   unit: サジタリアス
-  member: 
+  member:
     - 恵美
     - 歩
     - 瑞希
-  release: 
+  release:
     date: 2017.01.11
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony
   mltd:
@@ -119,11 +119,11 @@
 
 - song: P.S I Love You
   unit: ピスケス
-  member: 
+  member:
     - 可憐
     - 朋花
     - 千鶴
-  release: 
+  release:
     date: 2017.01.11
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony
   mltd:
@@ -132,11 +132,11 @@
 
 - song: プリムラ
   unit: ウィルゴ
-  member: 
+  member:
     - 昴
     - 百合子
     - 静香
-  release: 
+  release:
     date: 2017.01.11
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony
   mltd:
@@ -145,11 +145,11 @@
 
 - song: 待ちぼうけのLacrima
   unit: アクアリウス
-  member: 
+  member:
     - 麗花
     - ジュリア
     - 紗代子
-  release: 
+  release:
     date: 2017.01.11
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony
   mltd:
@@ -172,7 +172,7 @@
     - 瑞希
     - 静香
   cover: true
-  release: 
+  release:
     date: 2017.01.11
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony
 
@@ -206,18 +206,18 @@
     - 瑞希
   mltd:
     date: 2019.02.27
-  release: 
+  release:
     date: 2019.02.28
     disc: 配信限定
 
 - song: リフレインキス
   unit: スコーピオ
-  member: 
+  member:
     - 志保
     - 海美
     - 亜利沙
   cover: true
-  release: 
+  release:
     date: 2017.02.15
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody
 
@@ -231,17 +231,17 @@
   mltd:
     date: 2021.05.31
     event: プラチナスターシアター～リフレインキス～
-  release: 
+  release:
     date: 2021.06.10
     disc: 配信限定
 
 - song: Sweet Sweet Soul
   unit: アリエス
-  member: 
+  member:
     - 環
     - 茜
     - 星梨花
-  release: 
+  release:
     date: 2017.02.15
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody
   mltd:
@@ -250,11 +250,11 @@
 
 - song: メメント？モメント♪ルルルルル☆
   unit: タウラス
-  member: 
+  member:
     - 未来
     - まつり
     - 美也
-  release: 
+  release:
     date: 2017.02.15
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody
   mltd:
@@ -263,11 +263,11 @@
 
 - song: 永遠の花
   unit: ジェミニ
-  member: 
+  member:
     - 桃子
     - 風花
     - このみ
-  release: 
+  release:
     date: 2017.02.15
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody
   mltd:
@@ -290,7 +290,7 @@
     - 亜利沙
     - 美也
   cover: true
-  release: 
+  release:
     date: 2017.02.15
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody
 
@@ -324,6 +324,6 @@
     - 美也
   mltd:
     date: 2019.03.12
-  release: 
+  release:
     date: 2019.03.13
     disc: 配信限定

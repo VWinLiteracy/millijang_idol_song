@@ -1,5 +1,5 @@
 - song: ビッグバンズバリボー!!!!!
-  member: 
+  member:
     - 海美
     - 恵美
     - 紗代子
@@ -8,24 +8,24 @@
   mltd:
     date: 2018.08.20
     event: プラチナスターツアー～ビッグバンズバリボー!!!!!～
-  release: 
+  release:
     date: 2018.09.26
     disc: THE IDOLM@STER THE@TER BOOST 01
 
 - song: DIAMOND DAYS
-  member: 
+  member:
     - 海美
     - 恵美
     - 紗代子
     - 風花
     - 奈緒
   cover: true
-  release: 
+  release:
     date: 2018.09.26
     disc: THE IDOLM@STER THE@TER BOOST 01
 
 - song: オーディナリィ・クローバー
-  member: 
+  member:
     - 歌織
     - 静香
     - 杏奈
@@ -34,24 +34,24 @@
   mltd:
     date: 2018.09.21
     event: プラチナスターツアー～オーディナリィ・クローバー～
-  release: 
+  release:
     date: 2018.10.24
     disc: THE IDOLM@STER THE@TER BOOST 02
 
 - song: DIAMOND DAYS
-  member: 
+  member:
     - 歌織
     - 静香
     - 杏奈
     - 莉緒
     - 美也
   cover: true
-  release: 
+  release:
     date: 2018.10.24
     disc: THE IDOLM@STER THE@TER BOOST 02
 
 - song: ラスト・アクトレス
-  member: 
+  member:
     - 琴葉
     - 桃子
     - このみ
@@ -60,18 +60,18 @@
   mltd:
     date: 2018.10.22
     event: プラチナスターツアー～ラスト・アクトレス～
-  release: 
+  release:
     date: 2018.11.28
     disc: THE IDOLM@STER THE@TER BOOST 03
 
 - song: DIAMOND DAYS
-  member: 
+  member:
     - 琴葉
     - 桃子
     - このみ
     - 瑞希
     - 紬
   cover: true
-  release: 
+  release:
     date: 2018.11.28
     disc: THE IDOLM@STER THE@TER BOOST 03

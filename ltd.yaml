@@ -1,25 +1,25 @@
 - song: Dreaming!
-  member: 
+  member:
     - 未来
     - 静香
     - 翼
   cover: true
-  release: 
+  release:
     date: 2015.09.30
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 01
 
 - song: Welcome!!
   unit: 765 MILLIONSTARS!!
   cover: true
-  release: 
+  release:
     date: 2015.09.30
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 01
 
 - song: ハルカナミライ
-  member: 
+  member:
     - 春香
     - 未来
-  release: 
+  release:
     date: 2015.10.28
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 02
   mltd:
@@ -27,10 +27,10 @@
     event: プラチナスターシアター～ハルカナミライ～
 
 - song: 成長Chu→LOVER!!
-  member: 
+  member:
     - 杏奈
     - 百合子
-  release: 
+  release:
     date: 2015.10.28
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 02
   mltd:
@@ -38,10 +38,10 @@
     event: プラチナスターシアター～成長Chu→LOVER!!～
 
 - song: エスケープ
-  member: 
+  member:
     - ジュリア
     - 恵美
-  release: 
+  release:
     date: 2015.10.28
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 02
   mltd:
@@ -50,26 +50,26 @@
 
 
 - song: Eternal Spiral
-  member: 
+  member:
     - やよい
     - 可奈
-  release: 
+  release:
     date: 2015.10.28
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 02
 
 - song: piece of cake
-  member: 
+  member:
     - 麗花
     - 志保
-  release: 
+  release:
     date: 2015.10.28
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 02
 
 - song: アライブファクター
-  member: 
+  member:
     - 千早
     - 静香
-  release: 
+  release:
     date: 2015.12.02
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 03
   mltd:
@@ -77,10 +77,10 @@
     event: プラチナスターシアター～アライブファクター～
 
 - song: Persona Voice
-  member: 
+  member:
     - 千鶴
     - 雪歩
-  release: 
+  release:
     date: 2015.12.02
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 03
   mltd:
@@ -88,10 +88,10 @@
     event: プラチナスターシアター～Persona Voice～
 
 - song: Cut. Cut. Cut.
-  member: 
+  member:
     - 桃子
     - 瑞希
-  release: 
+  release:
     date: 2015.12.02
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 03
   mltd:
@@ -99,18 +99,18 @@
     event: プラチナスターシアター～Cut. Cut. Cut.～
 
 - song: Smiling Crescent
-  member: 
+  member:
     - 星梨花
     - 美也
-  release: 
+  release:
     date: 2015.12.02
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 03
 
 - song: Decided
-  member: 
+  member:
     - まつり
     - このみ
-  release: 
+  release:
     date: 2015.12.02
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 03
   mltd:
@@ -118,10 +118,10 @@
     event: プラチナスターシアター～Decided～
 
 - song: 深層マーメイド
-  member: 
+  member:
     - 翼
     - 響
-  release: 
+  release:
     date: 2015.12.23
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 04
   mltd:
@@ -129,18 +129,18 @@
     event: プラチナスターツインステージ～深淵の蒼、熱焔の緋～
 
 - song: HELLO, YOUR ANGEL♪
-  member: 
+  member:
     - 朋花
     - 育
-  release: 
+  release:
     date: 2015.12.23
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 04
 
 - song: G♡F
-  member: 
+  member:
     - 律子
     - 可憐
-  release: 
+  release:
     date: 2015.12.23
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 04
   mltd:
@@ -148,10 +148,10 @@
     event: プラチナスターシアター～G♡F～
 
 - song: little trip around the world
-  member: 
+  member:
     - エミリー
     - 伊織
-  release: 
+  release:
     date: 2015.12.23
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 04
   mltd:
@@ -159,26 +159,26 @@
     event: プラチナスターシアター～little trip around the world～
 
 - song: Melody in scape
-  member: 
+  member:
     - 美奈子
     - 紗代子
-  release: 
+  release:
     date: 2015.12.23
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 04
 
 - song: '"Your" HOME TOWN'
-  member: 
+  member:
     - ひなた
     - 亜美
-  release: 
+  release:
     date: 2016.01.27
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 05
 
 - song: fruity love
-  member: 
+  member:
     - 茜
     - ロコ
-  release: 
+  release:
     date: 2016.01.27
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 05
   mltd:
@@ -186,34 +186,34 @@
     event: プラチナスターシアター～fruity love～
 
 - song: 夜に輝く星座のように
-  member: 
+  member:
     - 亜利沙
     - 奈緒
-  release: 
+  release:
     date: 2016.01.27
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 05
 
 - song: 秘密のメモリーズ
-  member: 
+  member:
     - 貴音
     - 風花
-  release: 
+  release:
     date: 2016.01.27
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 05
 
 - song: たしかな足跡
-  member: 
+  member:
     - あずさ
     - 莉緒
-  release: 
+  release:
     date: 2016.01.27
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 05
 
 - song: Understand? Understand!
-  member: 
+  member:
     - 海美
     - 琴葉
-  release: 
+  release:
     date: 2016.03.23
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 06
   mltd:
@@ -221,10 +221,10 @@
     event: プラチナスターシアター～Understand? Understand!～
 
 - song: ジャングル☆パーティー
-  member: 
+  member:
     - 環
     - 真美
-  release: 
+  release:
     date: 2016.03.23
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 06
   mltd:
@@ -232,10 +232,10 @@
     event: プラチナスターシアター～ジャングル☆パーティー～
 
 - song: Beat the World!!!
-  member: 
+  member:
     - 真
     - 歩
-  release: 
+  release:
     date: 2016.03.23
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 06
   mltd:
@@ -243,10 +243,10 @@
     event: プラチナスターシアター～Beat the World!!!～
 
 - song: Emergence Vibe
-  member: 
+  member:
     - エレナ
     - 美希
-  release: 
+  release:
     date: 2016.03.23
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 06
   mltd:
@@ -254,9 +254,9 @@
     event: プラチナスターシアター～Emergence Vibe～
 
 - song: Dreamscape
-  member: 
+  member:
     - 昴
     - のり子
-  release: 
+  release:
     date: 2016.03.23
     disc: THE IDOLM@STER LIVE THE@TER DREAMERS 06

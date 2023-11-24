@@ -1,7 +1,7 @@
 - song: Thank You!
   unit: 765 MILLIONSTARS
   cover: true
-  release: 
+  release:
     date: 2013.04.24
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 01 Thank You!
   mltd:
@@ -9,9 +9,9 @@
     event: メインコミュ 第10話
 
 - song: キラメキ進行形
-  member: 
+  member:
     - 春香
-  release: 
+  release:
     date: 2013.05.29
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 02
   mltd:
@@ -19,9 +19,9 @@
     event: メインコミュ 第68話
 
 - song: 透明なプロローグ
-  member: 
+  member:
     - 百合子
-  release: 
+  release:
     date: 2013.05.29
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 02
   mltd:
@@ -29,9 +29,9 @@
     event: メインコミュ 第6話
 
 - song: トキメキの音符になって
-  member: 
+  member:
     - 星梨花
-  release: 
+  release:
     date: 2013.05.29
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 02
   mltd:
@@ -39,9 +39,9 @@
     event: メインコミュ 第7話
 
 - song: Maria Trap
-  member: 
+  member:
     - 朋花
-  release: 
+  release:
     date: 2013.05.29
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 02
   mltd:
@@ -49,9 +49,9 @@
     event: メインコミュ 第35話
 
 - song: Precious Grain
-  member: 
+  member:
     - 静香
-  release: 
+  release:
     date: 2013.05.29
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 02
   mltd:
@@ -59,13 +59,13 @@
     event: メインコミュ 第2話
 
 - song: Legend Girls!!
-  member: 
+  member:
     - 春香
     - 朋花
     - 百合子
     - 星梨花
     - 静香
-  release: 
+  release:
     date: 2013.05.29
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 02
   mltd:
@@ -73,9 +73,9 @@
     event: プラチナスターシアター～Legend Girls!!～
 
 - song: 素敵なキセキ
-  member: 
+  member:
     - 未来
-  release: 
+  release:
     date: 2013.06.26
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 03
   mltd:
@@ -83,9 +83,9 @@
     event: メインコミュ 第1話
 
 - song: ハッピー☆ラッキー☆ジェットマシーン
-  member: 
+  member:
     - 奈緒
-  release: 
+  release:
     date: 2013.06.26
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 03
   mltd:
@@ -93,9 +93,9 @@
     event: メインコミュ 第11話
 
 - song: Happy Darling
-  member: 
+  member:
     - 杏奈
-  release: 
+  release:
     date: 2013.06.26
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 03
   mltd:
@@ -103,9 +103,9 @@
     event: メインコミュ 第13話
 
 - song: オレンジの空の下
-  member: 
+  member:
     - 風花
-  release: 
+  release:
     date: 2013.06.26
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 03
   mltd:
@@ -113,9 +113,9 @@
     event: メインコミュ 第42話
 
 - song: Rebellion
-  member: 
+  member:
     - 響
-  release: 
+  release:
     date: 2013.06.26
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 03
   mltd:
@@ -123,72 +123,260 @@
     event: メインコミュ 第43話
 
 - song: PRETTY DREAMER
-  member: 
+  member:
     - 響
     - 未来
     - 風花
     - 杏奈
     - 奈緒
-  release: 
+  release:
     date: 2013.06.26
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 03
   mltd:
     date: 2018.12.04
     event: プラチナスターシアター～PRETTY DREAMER～
 
+- song: アフタースクールパーリータイム
+  member:
+    - 恵美
+  release:
+    date: 2013.07.31
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 04
+  mltd:
+    date: 2017.10.11
+    event: メインコミュ 第12話
+
+- song: 朝焼けのクレッシェンド
+  member:
+    - 琴葉
+  release:
+    date: 2013.07.31
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 04
+  mltd:
+    date: 2019.02.12
+    event: メインコミュ 第34話
+
+- song: ライアー・ルージュ
+  member:
+    - 志保
+  release:
+    date: 2013.07.31
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 04
+  mltd:
+    date: 2018.1.11
+    event: メインコミュ 第15話
+
+- song: Snow White
+  member:
+    - 千早
+  release:
+    date: 2013.07.31
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 04
+
 - song: Blue Symphony
-  member: 
+  member:
     - 千早
     - 志保
     - 琴葉
     - 恵美
-  release: 
+  release:
     date: 2013.07.31
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 04
   mltd:
     date: 2017.06.29
 
+- song: 微笑み日和
+  member:
+    - エミリー
+  release:
+    date: 2013.08.28
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 05
+
+- song: POKER POKER
+  member:
+    - 瑞希
+  release:
+    date: 2013.08.28
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 05
+  mltd:
+    date: 2022.07.14
+    event: メインコミュ 第112話
+
+- song: Be My Boy
+  member:
+    - 莉緒
+  release:
+    date: 2013.08.28
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 05
+  mltd:
+    date: 2020.03.11
+    event: メインコミュ 第60話
+
+- song: プライヴェイト・ロードショウ (playback, Weekday)
+  member:
+    - 伊織
+  release:
+    date: 2013.08.28
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 05
+  mltd:
+    date: 2020.02.27
+    event: メインコミュ 第59話
+
 - song: Sentimental Venus
-  member: 
+  member:
     - 伊織
     - エミリー
     - 瑞希
     - 莉緒
-  release: 
+  release:
     date: 2013.08.28
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 05
   mltd:
     date: 2017.06.29
 
+- song: 恋のLesson初級編
+  member:
+    - 翼
+  release:
+    date: 2013.09.25
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 06
+  mltd:
+    date: 2017.06.29
+    event: メインコミュ 第3話
+
+- song: FIND YOUR WIND!
+  member:
+    - 麗花
+  release:
+    date: 2013.09.25
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 06
+  mltd:
+    date: 2018.11.30
+    event: メインコミュ 第29話
+
+- song: 追憶のサンドグラス
+  member:
+    - 美希
+  release:
+    date: 2013.09.25
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 06
+  mltd:
+    date: 2020.09.10
+    event: メインコミュ 第71話
+
+- song: 流星群
+  member:
+    - ジュリア
+  release:
+    date: 2013.09.25
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 06
+  mltd:
+    date: 2019.05.30
+    event: メインコミュ 第41話
+
 - song: Marionetteは眠らない
-  member: 
+  member:
     - 美希
     - 翼
     - 麗花
     - ジュリア
-  release: 
+  release:
     date: 2013.09.25
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 06
   mltd:
     date: 2017.06.29
 
+- song: マイペース☆マイウェイ
+  member:
+    - のり子
+  release:
+    date: 2013.10.30
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 07
+  mltd:
+    date: 2020.10.12
+    event: メインコミュ 第73話
+
+- song: 君想いBirthday
+  member:
+    - 紗代子
+  release:
+    date: 2013.10.30
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 07
+  mltd:
+    date: 2023.04.28
+    event: メインコミュ 第129話
+
+- song: ちいさな恋の足音
+  member:
+    - 可憐
+  release:
+    date: 2013.10.30
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 07
+  mltd:
+    date: 2021.06.10
+    event: メインコミュ 第87話
+
+- song: 嘆きのFRACTION
+  member:
+    - あずさ
+  release:
+    date: 2013.10.30
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 07
+  mltd:
+    date: 2020.11.11
+    event: メインコミュ 第75話
+
 - song: カワラナイモノ
-  member: 
+  member:
     - あずさ
     - 可憐
     - 紗代子
     - のり子
-  release: 
+  release:
     date: 2013.10.30
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 07
 
+- song: ホップ♪ステップ♪レインボウ♪
+  member:
+    - 環
+  release:
+    date: 2013.11.27
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 08
+  mltd:
+    date: 2021.11.26
+    event: メインコミュ 第98話
+
+- song: グッデイ・サンシャイン！
+  member:
+    - 育
+  release:
+    date: 2013.11.27
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 08
+
+- song: オリジナル声になって
+  member:
+    - 可奈
+  release:
+    date: 2013.11.27
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 08
+  mltd:
+    date: 2017.12.12
+    event: メインコミュ 第14話
+
+- song: ハートウォーミング
+  member:
+    - やよい
+  release:
+    date: 2013.11.27
+    disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 08
+
 - song: Good-Sleep, Baby♡
-  member: 
+  member:
     - やよい
     - 環
     - 育
     - 可奈
-  release: 
+  release:
     date: 2013.11.27
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 08
   mltd:
@@ -196,12 +384,12 @@
     event: プラチナスターシアター～Good-Sleep, Baby♡～
 
 - song: Helloコンチェルト
-  member: 
+  member:
     - 律子
     - ひなた
     - 美奈子
     - 亜利沙
-  release: 
+  release:
     date: 2013.12.25
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 09
   mltd:
@@ -209,12 +397,12 @@
     event: プラチナスターシアター～Helloコンチェルト～
 
 - song: 瞳の中のシリウス
-  member: 
+  member:
     - 貴音
     - 海美
     - まつり
     - 美也
-  release: 
+  release:
     date: 2014.01.29
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 10
   mltd:
@@ -222,34 +410,34 @@
     event: プラチナスターシアター～瞳の中のシリウス～
 
 - song: Fu-Wa-Du-Wa
-  member: 
+  member:
     - 真
     - 真美
     - エレナ
     - 歩
-  release: 
+  release:
     date: 2014.02.26
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 11
 
 - song: ココロがかえる場所
-  member: 
+  member:
     - 雪歩
     - 桃子
     - 千鶴
     - ロコ
-  release: 
+  release:
     date: 2014.03.26
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 12
   mltd:
     date: 2017.06.29
 
 - song: Bigバルーン◎
-  member: 
+  member:
     - 亜美
     - 昴
     - 茜
     - このみ
-  release: 
+  release:
     date: 2014.04.30
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 13
   mltd:
@@ -257,11 +445,11 @@
     event: プラチナスターシアター～Bigバルーン◎～
 
 - song: Thank You!
-  member: 
+  member:
     - 未来
     - 静香
     - 翼
   cover: true
-  release: 
+  release:
     date: 2014.04.30
     disc: THE IDOLM@STER LIVE THE@TER PERFORMANCE 13

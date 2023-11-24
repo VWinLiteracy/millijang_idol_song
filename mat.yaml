@@ -1,6 +1,6 @@
 - song: Rat A Tat!!!
   unit: MILLIONSTARS
-  release: 
+  release:
     date: 2023.08.23
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER 『Rat A Tat!!!』
   mltd:
@@ -9,7 +9,7 @@
 
 - song: セブンカウント
   unit: MILLIONSTARS
-  release: 
+  release:
     date: 2023.08.23
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER 『Rat A Tat!!!』
 
@@ -20,7 +20,7 @@
     - 志保
     - 朋花
     - 杏奈
-  release: 
+  release:
     date: 2023.09.20
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team1st 『Star Impression』
   mltd:
@@ -35,9 +35,12 @@
     - のり子
     - 瑞希
     - 莉緒
-  release: 
+  release:
     date: 2023.09.20
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team2nd 『海風とカスタネット』
+  mltd:
+    date: 2023.10.31
+    event: プラチナスターチーム～海風とカスタネット～
 
 - song: オレンジノキオク
   unit: MILLIONSTARS Team3rd
@@ -47,9 +50,11 @@
     - 恵美
     - 風花
     - 百合子
-  release: 
+  release:
     date: 2023.10.25
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team3rd 『オレンジノキオク』
+  mltd:
+    event: プラチナスターチーム～オレンジノキオク～
 
 - song: catch my feeling
   unit: MILLIONSTARS Team4th
@@ -60,7 +65,7 @@
     - 亜利沙
     - 奈緒
     - ロコ
-  release: 
+  release:
     date: 2023.09.20
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team4th『catch my feeling』
 
@@ -72,7 +77,7 @@
     - 茜
     - 星梨花
     - 美也
-  release: 
+  release:
     date: 2023.10.25
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team5th 『バトンタッチ』
 
@@ -84,7 +89,7 @@
     - ひなた
     - エレナ
     - 昴
-  release: 
+  release:
     date: 2023.10.25
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team6th 『Unknown Boxの開き方』
 
@@ -95,7 +100,7 @@
     - 麗花
     - 歩
     - 可奈
-  release: 
+  release:
     date: 2023.10.25
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team7th 『トワラー』
 
@@ -107,6 +112,6 @@
     - 翼
     - 歌織
     - 紬
-  release: 
+  release:
     date: 2023.10.25
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team8th 『REFRAIN REL@TION』
