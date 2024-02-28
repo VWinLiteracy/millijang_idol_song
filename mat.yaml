@@ -54,6 +54,7 @@
     date: 2023.10.25
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team3rd 『オレンジノキオク』
   mltd:
+    date: 2023.11.30
     event: プラチナスターチーム～オレンジノキオク～
 
 - song: catch my feeling
@@ -68,6 +69,9 @@
   release:
     date: 2023.09.20
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team4th『catch my feeling』
+  mltd:
+    date: 2024.01.02
+    event: プラチナスターチーム～catch my feeling～
 
 - song: バトンタッチ
   unit: MILLIONSTARS Team5th
@@ -80,6 +84,9 @@
   release:
     date: 2023.10.25
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team5th 『バトンタッチ』
+  mltd:
+    date: 2024.02.01
+    event: プラチナスターチーム～バトンタッチ～
 
 - song: Unknown Boxの開き方
   unit: MILLIONSTARS Team6th
@@ -92,6 +99,8 @@
   release:
     date: 2023.10.25
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team6th 『Unknown Boxの開き方』
+  mltd:
+    event: プラチナスターチーム～Unknown Boxの開き方～
 
 - song: トワラー
   unit: MILLIONSTARS Team7th
