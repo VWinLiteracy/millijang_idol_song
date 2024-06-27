@@ -174,7 +174,15 @@
     - 海美
     - 星梨花
   mltd:
+    date: 2024.05.31
     event: プラチナスターシアタースペシャル～Clover Days～
+
+- song: Beautiful Believer
+  member:
+    - 恵美
+  mltd: 
+    date: 2024.06.09
+    event: メインコミュ 第145話
 
 - song: ilLUmiNAte!
   unit: ルナ
@@ -184,7 +192,15 @@
     - 響
     - あずさ
   mltd:
+    date: 2024.06.16
     event: プラチナスターツアービンゴ～ilLUmiNAte!～
+
+- song: 百花は月下に散りぬるを SHINOBI Night ver.
+  member: 
+    - 杏奈
+    - 静香
+  mltd: 
+    event: ミリオンリンケージ 忍びたちの夜編
 
 - song: 7Days A Week!!
   unit: 765 MILLION ALLSTARS
