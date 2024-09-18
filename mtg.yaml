@@ -1,7 +1,5 @@
 - song: Brand New Theater!
   unit: 765 MILLION ALLSTARS
-  mltd:
-    date: 2017.06.29
   release:
     date: 2017.07.26
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 01 Brand New Theater!
@@ -11,9 +9,6 @@
   release:
     date: 2017.07.26
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 01 Brand New Theater!
-  mltd:
-    date: 2018.12.14
-    event: メインコミュ第30話
 
 - song: インヴィンシブル・ジャスティス
   member:
@@ -22,17 +17,6 @@
   release:
     date: 2017.07.26
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 01 Brand New Theater!
-  mltd:
-    date: 2019.04.01
-    event: 出撃！アイドルヒーローズ
-
-- song: インヴィンシブル・ジャスティス
-  member:
-    - 百合子
-    - 翼
-  cover: true
-  mltd:
-    date: 2020.01.19
 
 - song: FairyTaleじゃいられない
   unit: フェアリースターズ
@@ -42,9 +26,6 @@
     - 恵美
     - ジュリア
     - 志保
-  mltd:
-    date: 2017.10.20
-    event: プラチナスターツアー～FairyTaleじゃいられない～
   release:
     date: 2017.11.22
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 02 フェアリースターズ
@@ -64,9 +45,6 @@
     - 歌織
     - 星梨花
     - 杏奈
-  mltd:
-    date: 2017.11.21
-    event: プラチナスターツアー～Angelic Parade♪～
   release:
     date: 2017.12.27
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 03 エンジェルスターズ
@@ -86,9 +64,6 @@
     - 可奈
     - 百合子
     - エミリー
-  mltd:
-    date: 2017.12.21
-    event: プラチナスターツアー～Princess Be Ambitious!!～
   release:
     date: 2018.01.31
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 04 プリンセススターズ
@@ -107,9 +82,6 @@
     - 恵美
     - 千鶴
     - 莉緒
-  mltd:
-    date: 2018.01.19
-    event: プラチナスターツアー～昏き星、遠い月～
   release:
     date: 2018.02.28
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 05 夜想令嬢 -GRAC&E NOCTURNE-
@@ -124,18 +96,12 @@
   release:
     date: 2018.02.28
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 05 夜想令嬢 -GRAC&E NOCTURNE-
-  mltd:
-    date: 2022.08.03
-    event: プラチナスターチューンオルタナティブ～Everlasting～
 
 - song: 虹色letters
   unit: Cleasky
   member:
     - エレナ
     - 美也
-  mltd:
-    date: 2018.02.16
-    event: プラチナスターツアー～虹色letters～
   release:
     date: 2018.03.28
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 06 Cleasky
@@ -148,9 +114,6 @@
   release:
     date: 2018.03.28
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 06 Cleasky
-  mltd:
-    date: 2022.04.02
-    event: プラチナスターチューン～想い出はクリアスカイ～
 
 - song: ZETTAI x BREAK!! トゥインクルリズム
   unit: トゥインクルリズム
@@ -158,9 +121,6 @@
     - 育
     - 百合子
     - 亜利沙
-  mltd:
-    date: 2018.03.20
-    event: プラチナスターツアー～ZETTAI x BREAK!! トゥインクルリズム～
   release:
     date: 2018.04.25
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 07 トゥインクルリズム
@@ -174,9 +134,6 @@
   release:
     date: 2018.04.25
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 07 トゥインクルリズム
-  mltd:
-    date: 2021.08.03
-    event: プラチナスターチューン～Tomorrow Program～
 
 - song: Melty Fantasia
   unit: EScape
@@ -184,9 +141,6 @@
     - 瑞希
     - 紬
     - 志保
-  mltd:
-    date: 2018.04.20
-    event: プラチナスターツアー～Melty Fantasia～
   release:
     date: 2018.05.30
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 08 EScape
@@ -211,9 +165,6 @@
     - 風花
     - 麗花
     - このみ
-  mltd:
-    date: 2018.05.21
-    event: プラチナスターツアー～花ざかりWeekend✿～
   release:
     date: 2018.06.27
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 09 4 Luxury
@@ -228,9 +179,6 @@
   release:
     date: 2018.06.27
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 09 4 Luxury
-  mltd:
-    date: 2021.02.01
-    event: プラチナスターチューン～RED ZONE～
 
 - song: 咲くは浮世の君花火
   unit: 閃光☆HANABI団
@@ -240,9 +188,6 @@
     - のり子
     - 奈緒
     - 美奈子
-  mltd:
-    date: 2018.06.20
-    event: プラチナスターツアー～咲くは浮世の君花火～
   release:
     date: 2018.07.25
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 10 閃光☆HANABI団
@@ -258,24 +203,15 @@
   release:
     date: 2018.07.25
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 10 閃光☆HANABI団
-  mltd:
-    date: 2020.08.03
-    event: プラチナスターチューン～BORN ON DREAM!～
 
 - song: UNION!!
   unit: 765 MILLION ALLSTARS
-  mltd:
-    date: 2018.06.29
-    event: BRAND★NEW★PERFORM@NCE!!!
   release:
     date: 2018.08.29
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!
 
 - song: Welcome!!
   unit: 765 MILLION ALLSTARS
-  mltd:
-    date: 2018.02.08
-    event: メインコミュ第16話
   release:
     date: 2018.08.29
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!
@@ -285,9 +221,6 @@
   member:
     - ジュリア
     - 静香
-  mltd:
-    date: 2018.11.21
-    event: プラチナスターツアー～ハーモニクス～
   release:
     date: 2018.12.26
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal
@@ -300,9 +233,6 @@
   release:
     date: 2018.12.26
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal
-  mltd:
-    date: 2020.11.02
-    event: プラチナスターチューン～餞の鳥～
 
 - song: ハルマチ女子
   unit: りるきゃん ～3 little candy～
@@ -310,9 +240,6 @@
     - 可憐
     - 茜
     - 翼
-  mltd:
-    date: 2018.12.21
-    event: プラチナスターツアー～ハルマチ女子～
   release:
     date: 2019.01.30
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 13 りるきゃん ～3 little candy～
@@ -332,9 +259,6 @@
   member:
     - まつり
     - エミリー
-  mltd:
-    date: 2019.01.20
-    event: プラチナスターツアー～だってあなたはプリンセス～
   release:
     date: 2019.02.27
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 14 Charlotte・Charlotte
@@ -347,9 +271,6 @@
   release:
     date: 2019.02.27
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 14 Charlotte・Charlotte
-  mltd:
-    date: 2021.11.30
-    event: プラチナスターチューン～ミラージュ・ミラー～
 
 - song: 月曜日のクリームソーダ
   unit: Jelly PoP Beans
@@ -358,9 +279,6 @@
     - 歩
     - 昴
     - 桃子
-  mltd:
-    date: 2019.02.19
-    event: プラチナスターツアー～月曜日のクリームソーダ～
   release:
     date: 2019.03.27
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 15 Jelly PoP Beans
@@ -375,9 +293,6 @@
   release:
     date: 2019.03.27
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 15 Jelly PoP Beans
-  mltd:
-    date: 2021.05.02
-    event: プラチナスターチューン～I did+I will～
 
 - song: ピコピコIIKO! インベーダー
   unit: ピコピコプラネッツ
@@ -386,9 +301,6 @@
     - 星梨花
     - 環
     - 杏奈
-  mltd:
-    date: 2019.03.19
-    event: プラチナスターツアー～ピコピコIIKO! インベーダー～
   release:
     date: 2019.04.24
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 16 ピコピコプラネッツ
@@ -403,9 +315,6 @@
   release:
     date: 2019.04.24
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 16 ピコピコプラネッツ
-  mltd:
-    date: 2022.11.30
-    event: プラチナスターチューン～Get lol! Get lol! SONG～
 
 - song: Episode. Tiara
   unit: STAR ELEMENTS
@@ -413,9 +322,6 @@
     - 未来
     - 可奈
     - 琴葉
-  mltd:
-    date: 2019.04.19
-    event: プラチナスターツアー～Episode. Tiara～
   release:
     date: 2019.05.29
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 17 STAR ELEMENTS
@@ -446,9 +352,6 @@
     - 真美
     - あずさ
     - 伊織
-  mltd:
-    date: 2019.05.20
-    event: プラチナスターツアー～LEADER!!～
   release:
     date: 2019.06.26
     disc: THE IDOLM@STER MILLION THE@TER GENERATION 18 765PRO ALLSTARS

@@ -1,0 +1,520 @@
+- song: Brand New Theater! ～Brand New Year Ver.～
+  unit: 765 MILLIONSTARS
+  mltd:
+    date: 2022.01.01
+    event: 「ミリシタカウントダウン！2021-2022」連動
+
+- song: Clover's Cry ～神と神降ろしの少女～
+  member:
+    - 奈緒
+    - このみ
+    - 律子
+    - 環
+    - ひなた
+  mltd:
+    date: 2022.01.02
+    event: プラチナスターテール～Clover's Cry 神と神降ろしの少女～
+
+- song: 君だけの欠片
+  member:
+    - エミリー
+  mltd:
+    date: 2022.01.11
+    event: メインコミュ 第101話
+
+- song: Shamrock Vivace
+  unit: CLEVER CLOVER
+  member:
+    - ひなた
+    - 海美
+    - 律子
+    - 環
+    - 真
+    - エレナ
+    - 千鶴
+    - 星梨花
+    - このみ
+    - 瑞希
+    - あずさ
+    - 奈緒
+    - ロコ
+  mltd:
+    date: 2022.01.18
+    event: プラチナスタートレジャー～Shamrock Vivace～
+
+- song: 蒼い鳥
+  member:
+    - 千早
+  mltd:
+    date: 2022.01.29
+    event: メインコミュ 第102話
+
+- song: ショコラブル＊イブ
+  member:
+    - 恵美
+    - 未来
+    - 紗代子
+    - 茜
+    - 杏奈
+  mltd:
+    date: 2022.02.02
+    event: プラチナスタートラスト～ショコラブ♡バレンタイン～
+
+- song: Impervious Resolution
+  member:
+    - 雪歩
+  mltd:
+    date: 2022.02.10
+    event: メインコミュ 第103話
+
+- song: IGNITE
+  member:
+    - 瑞希
+    - 翼
+    - ジュリア
+    - 琴葉
+    - 星梨花
+  cover: true
+  mltd:
+    date: 2022.02.17
+    event: プラチナスターツアースペシャル～LINK ST@RT!～
+
+- song: 永遠の花
+  unit: ジェミニ
+  member:
+    - 桃子
+    - 風花
+    - このみ
+  mltd:
+    date: 2022.03.03
+    event: プラチナスターシアター～永遠の花～
+
+- song: 空に手が触れる場所
+  member:
+    - 麗花
+  mltd:
+    date: 2022.03.12
+    event: メインコミュ 第104話
+
+- song: LOVE is GAME
+  member:
+    - 朋花
+    - やよい
+    - 美奈子
+    - 百合子
+  mltd:
+    date: 2022.03.19
+    event: プラチナスターツアー～LOVE is GAME～
+
+- song: 恋の音色ライン
+  member:
+    - 千鶴
+  mltd:
+    date: 2022.03.27
+    event: メインコミュ 第105話
+
+- song: Honey Heartbeat
+  member:
+    - 茜
+    - 奈緒
+  cover: true
+  mltd:
+    date: 2022.03.28
+    event: ミリオンフェス
+
+- song: Honey Heartbeat
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2022.03.28
+    event: ミリオンフェス
+
+- song: 想い出はクリアスカイ
+  unit: Cleasky
+  member:
+    - 美也
+    - エレナ
+  mltd:
+    date: 2022.04.02
+    event: プラチナスターチューン～想い出はクリアスカイ～
+
+- song: SUPER SIZE LOVE!!
+  member:
+    - 美奈子
+  mltd:
+    date: 2022.04.11
+    event: メインコミュ 第106話
+
+- song: 紙・心・ペン・心 - SHISHINPENSHIN -
+  member:
+    - のり子
+    - 亜利沙
+    - 千早
+    - 麗花
+    - 紗代子
+  mltd:
+    date: 2022.04.18
+    event: プラチナスターテール～紙・心・ペン・心 SHISHINPENSHIN～
+
+- song: プラリネ
+  member:
+    - ジュリア
+  mltd:
+    date: 2022.04.27
+    event: メインコミュ 第107話
+
+- song: CHEER UP! HEARTS UP!
+  member:
+    - 杏奈
+    - 可奈
+    - 春香
+    - ジュリア
+  mltd:
+    date: 2022.05.01
+    event: プラチナスターツアービンゴ～CHEER UP! HEARTS UP!～
+
+- song: WOW! I NEED!! ～シンギングモンキー 歌唱拳～
+  member:
+    - 真美
+  mltd:
+    date: 2022.05.10
+    event: メインコミュ 第108話
+
+- song: VOY@GER
+  member:
+    - 海美
+    - 杏奈
+    - 紬
+  cover: true
+  mltd:
+    date: 2022.05.15
+    event: 「バンナムフェス2nd」連動
+
+- song: 空色♡ Birthday Card
+  unit: LOVERS HEART
+  member:
+    - ジュリア
+    - 紗代子
+    - 春香
+    - 千早
+    - 麗花
+    - 美奈子
+    - やよい
+    - 朋花
+    - 百合子
+    - のり子
+    - 亜利沙
+    - 杏奈
+    - 可奈
+  mltd:
+    date: 2022.05.17
+    event: プラチナスタートレジャー～空色♡ Birthday Card～
+
+- song: タイムマシンに飛び乗って！
+  member:
+    - 亜美
+  mltd:
+    date: 2022.05.27
+    event: メインコミュ 第109話
+
+- song: Understand? Understand!
+  member:
+    - 海美
+    - 琴葉
+  mltd:
+    date: 2022.05.31
+    event: プラチナスターシアター～Understand? Understand!～
+
+- song: DIAMOND
+  member:
+    - 伊織
+  mltd:
+    date: 2022.06.09
+    event: メインコミュ 第110話
+
+- song: Vacation VS Summer ～ナツとヤスミのアンビバレント！～
+  member:
+    - まつり
+    - 環
+    - 紬
+    - のり子
+    - あずさ
+  mltd:
+    date: 2022.06.16
+    event: プラチナスタートラスト～ナツヤスミ☆アピール合戦！～
+
+- song: あめにうたおう♪
+  member:
+    - 可奈
+  mltd:
+    date: 2022.06.25
+    event: メインコミュ 第111話
+
+- song: The world is all one !!
+  member:
+    - ロコ
+    - このみ
+  cover: true
+  mltd:
+    date: 2022.06.28
+    event: ミリオンフェス
+
+- song: The world is all one !!
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2022.06.28
+    event: ミリオンフェス
+
+- song: 夢にかけるRainbow
+  unit: 765 MILLION ALLSTARS
+  mltd:
+    date: 2022.06.30
+    event: 私たちのR@inbow!
+
+- song: なんどでも笑おう
+  unit: 765PRO ALLSTARS
+  cover: true
+  mltd:
+    date: 2022.07.10
+    event: 「SUNRICH COLORFUL」連動
+
+- song: POKER POKER
+  member:
+    - 瑞希
+  mltd:
+    date: 2022.07.14
+    event: メインコミュ 第112話
+
+- song: Criminally Dinner ～正餐とイーヴルナイフ～
+  member:
+    - 美希
+    - 歩
+    - 可憐
+    - 育
+    - 静香
+  mltd:
+    date: 2022.07.21
+    event: プラチナスターテール～Criminally Dinner 正餐とイーヴルナイフ～
+
+- song: ロケットスター☆
+  member:
+    - 翼
+  mltd:
+    date: 2022.07.29
+    event: メインコミュ 第113話
+
+- song: Everlasting
+  unit: 夜想令嬢 -GRAC&E NOCTURNE-
+  member:
+    - 莉緒
+    - 恵美
+    - 朋花
+    - 千鶴
+  mltd:
+    date: 2022.08.03
+    event: プラチナスターチューンオルタナティブ～Everlasting～
+
+- song: Take!3.2.1.→S･P･A･C･E↑↑
+  member:
+    - 亜利沙
+  mltd:
+    date: 2022.08.12
+    event: メインコミュ 第114話
+
+- song: スペードのQ
+  member:
+    - 昴
+    - 亜美
+    - エミリー
+    - 志保
+  mltd:
+    date: 2022.08.19
+    event: プラチナスターツアー～スペードのQ～
+
+- song: Come on a Tea Party!
+  member:
+    - 星梨花
+  mltd:
+    date: 2022.08.28
+    event: メインコミュ 第115話
+
+- song: KING of SPADE
+  member:
+    - 紬
+    - 響
+    - 風花
+    - 茜
+  mltd:
+    date: 2022.09.01
+    event: プラチナスターツアービンゴ～KING of SPADE～
+
+- song: 未来系ドリーマー
+  member:
+    - 未来
+  mltd:
+    date: 2022.09.10
+    event: メインコミュ 第116話
+
+- song: ESPADA
+  unit: SHADE OF SPADE
+  member:
+    - 風花
+    - エミリー
+    - 響
+    - 志保
+    - 可憐
+    - 紬
+    - 育
+    - 昴
+    - 茜
+    - 亜美
+    - 美希
+    - 歩
+    - 静香
+  mltd:
+    date: 2022.09.17
+    event: プラチナスタートレジャー～ESPADA～
+
+- song: 風花
+  member:
+    - 貴音
+  mltd:
+    date: 2022.09.26
+    event: メインコミュ 第117話
+
+- song: relations
+  member:
+    - のり子
+    - あずさ
+  cover: true
+  mltd:
+    date: 2022.09.27
+    event: ミリオンフェス
+
+- song: relations
+  member:
+    - 美希
+    - 千早
+  mltd:
+    date: 2022.09.27
+    event: ミリオンフェス
+
+- song: ゲキテキ！ムテキ！恋したい！
+  unit: レオ
+  member:
+    - ロコ
+    - 育
+    - エレナ
+  mltd:
+    date: 2022.10.01
+    event: プラチナスターシアター～ゲキテキ！ムテキ！恋したい！～
+
+- song: ピピカ・リリカ
+  member:
+    - やよい
+  mltd:
+    date: 2022.10.11
+    event: メインコミュ 第118話
+
+- song: ミスティック・セレモニーへの招待状
+  member:
+    - 可奈
+    - 翼
+    - 麗花
+    - 朋花
+    - 真美
+  mltd:
+    date: 2022.10.18
+    event: プラチナスタートラストスペシャル～ようこそミスティック・セレモニー～
+
+- song: 地球儀にない国
+  member:
+    - 百合子
+  mltd:
+    date: 2022.10.27
+    event: メインコミュ 第119話
+
+- song: ハルカナミライ
+  member:
+    - 春香
+    - 未来
+  mltd:
+    date: 2022.10.31
+    event: プラチナスターシアター～ハルカナミライ～
+
+- song: プリティ～～～ッ→ニャンニャンッ！
+  member:
+    - 茜
+  mltd:
+    date: 2022.11.10
+    event: メインコミュ 第120話
+
+- song: サウンド・オブ・ビギニング
+  member:
+    - 琴葉
+    - ロコ
+    - 桃子
+    - 千鶴
+    - 美也
+  mltd:
+    date: 2022.11.17
+    event: プラチナスタータイム～RisingLight～
+
+- song: SING MY SONG
+  member:
+    - 静香
+  mltd:
+    date: 2022.11.26
+    event: メインコミュ 第121話
+
+- song: Get lol! Get lol! SONG
+  unit: ピコピコプラネッツ
+  member:
+    - 環
+    - 杏奈
+    - ひなた
+    - 星梨花
+  mltd:
+    date: 2022.11.30
+    event: プラチナスターチューン～Get lol! Get lol! SONG～
+
+- song: ART NEEDS HEART BEATS
+  member:
+    - ロコ
+  mltd:
+    date: 2022.12.09
+    event: メインコミュ 第122話
+
+- song: Supersonic Booster!
+  member:
+    - 律子
+    - 百合子
+    - 麗花
+    - エレナ
+    - このみ
+  mltd:
+    date: 2022.12.17
+    event: プラチナスタータイム～ShineLight～
+
+- song: CRIMSON LOVERS
+  member:
+    - 昴
+    - 亜利沙
+  cover: true
+  mltd:
+    date: 2022.12.25
+    event: ミリオンフェス
+
+- song: CRIMSON LOVERS
+  member:
+    - 千早
+    - 春香
+  mltd:
+    date: 2022.12.25
+    event: ミリオンフェス
+
+- song: Border LINE→→→♡
+  member:
+    - 莉緒
+  mltd:
+    date: 2022.12.26
+    event: メインコミュ 第123話

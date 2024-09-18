@@ -7,9 +7,6 @@
   release:
     date: 2016.12.07
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 01 Sunshine Rhythm
-  mltd:
-    date: 2019.08.04
-    event: プラチナスターシアター～ランニング・ハイッ～
 
 - song: ゲキテキ！ムテキ！恋したい！
   unit: レオ
@@ -20,9 +17,6 @@
   release:
     date: 2016.12.07
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 01 Sunshine Rhythm
-  mltd:
-    date: 2022.10.01
-    event: プラチナスターシアター～ゲキテキ！ムテキ！恋したい！～
 
 - song: Bonnes! Bonnes!! Vacances!!!
   unit: リブラ
@@ -33,9 +27,6 @@
   release:
     date: 2016.12.07
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 01 Sunshine Rhythm
-  mltd:
-    date: 2019.03.04
-    event: プラチナスターシアター～Bonnes! Bonnes!! Vacances!!!～
 
 - song: NO CURRY NO LIFE
   unit: カプリコーン
@@ -46,9 +37,6 @@
   release:
     date: 2016.12.07
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 01 Sunshine Rhythm
-  mltd:
-    date: 2020.12.01
-    event: プラチナスターシアター～NO CURRY NO LIFE～
 
 - song: サンリズム・オーケストラ♪
   unit: Sunshine Rhythm
@@ -69,18 +57,6 @@
   release:
     date: 2016.12.07
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 01 Sunshine Rhythm
-
-- song: サンリズム・オーケストラ♪
-  member:
-    - 翼
-    - ひなた
-    - 美奈子
-    - エレナ
-    - 可奈
-  cover: true
-  mltd:
-    date: 2018.08.03
-    event: プラチナスターシアター～サンリズム・オーケストラ♪～
 
 - song: サンリズム・オーケストラ♪
   unit: Sunshine Rhythm
@@ -98,8 +74,6 @@
     - 可奈
     - 奈緒
     - ロコ
-  mltd:
-    date: 2019.02.14
   release:
     date: 2019.02.15
     disc: 配信限定
@@ -113,9 +87,6 @@
   release:
     date: 2017.01.11
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony
-  mltd:
-    date: 2019.01.04
-    event: プラチナスターシアター～Raise the FLAG～
 
 - song: P.S I Love You
   unit: ピスケス
@@ -126,9 +97,6 @@
   release:
     date: 2017.01.11
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony
-  mltd:
-    date: 2021.03.03
-    event: プラチナスターシアター～P.S I Love You～
 
 - song: プリムラ
   unit: ウィルゴ
@@ -139,9 +107,6 @@
   release:
     date: 2017.01.11
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony
-  mltd:
-    date: 2019.05.02
-    event: プラチナスターシアター～プリムラ～
 
 - song: 待ちぼうけのLacrima
   unit: アクアリウス
@@ -152,9 +117,6 @@
   release:
     date: 2017.01.11
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony
-  mltd:
-    date: 2019.11.02
-    event: プラチナスターシアター～待ちぼうけのLacrima～
 
 - song: brave HARMONY
   unit: BlueMoon Harmony
@@ -175,18 +137,6 @@
   release:
     date: 2017.01.11
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony
-
-- song: brave HARMONY
-  member:
-    - 麗花
-    - 紗代子
-    - 朋花
-    - 歩
-    - 静香
-  cover: true
-  mltd:
-    date: 2018.09.03
-    event: プラチナスターシアター～brave HARMONY～
 
 - song: brave HARMONY
   unit: BlueMoon Harmony
@@ -204,8 +154,6 @@
     - 千鶴
     - 歩
     - 瑞希
-  mltd:
-    date: 2019.02.27
   release:
     date: 2019.02.28
     disc: 配信限定
@@ -228,9 +176,6 @@
     - 海美
     - 琴葉
     - 亜利沙
-  mltd:
-    date: 2021.05.31
-    event: プラチナスターシアター～リフレインキス～
   release:
     date: 2021.06.10
     disc: 配信限定
@@ -244,9 +189,6 @@
   release:
     date: 2017.02.15
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody
-  mltd:
-    date: 2023.03.01
-    event: プラチナスターシアター～Sweet Sweet Soul～
 
 - song: メメント？モメント♪ルルルルル☆
   unit: タウラス
@@ -257,9 +199,6 @@
   release:
     date: 2017.02.15
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody
-  mltd:
-    date: 2020.02.02
-    event: プラチナスターシアター～メメント？モメント♪ルルルルル☆～
 
 - song: 永遠の花
   unit: ジェミニ
@@ -270,9 +209,6 @@
   release:
     date: 2017.02.15
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody
-  mltd:
-    date: 2022.03.03
-    event: プラチナスターシアター～永遠の花～
 
 - song: Starry Melody
   unit: Starlight Melody
@@ -295,18 +231,6 @@
     disc: THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody
 
 - song: Starry Melody
-  member:
-    - 未来
-    - 琴葉
-    - 風花
-    - 星梨花
-    - 亜利沙
-  cover: true
-  mltd:
-    date: 2018.10.03
-    event: プラチナスターシアター～Starry Melody～
-
-- song: Starry Melody
   unit: Sunshine Rhythm
   member:
     - 未来
@@ -322,8 +246,6 @@
     - このみ
     - 亜利沙
     - 美也
-  mltd:
-    date: 2019.03.12
   release:
     date: 2019.03.13
     disc: 配信限定

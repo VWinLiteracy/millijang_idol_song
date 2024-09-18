@@ -5,9 +5,9 @@
     - 朋花
     - まつり
     - このみ
-  cover: true
   mltd:
     date: 2024.01.01
+    event: 「ミリシタカウントダウン！2023-2024」連動
 
 - song: catch my feeling
   unit: MILLIONSTARS Team4th
@@ -168,6 +168,7 @@
     event: プラチナスターティアラ～Upper Dog～
 
 - song: Clover Days
+  unit: Clover
   member:
     - 志保
     - 可奈
@@ -199,6 +200,7 @@
   member: 
     - 杏奈
     - 静香
+  cover: true
   mltd: 
     date: 2024.06.28
     event: ミリオンリンケージ 忍びたちの夜編
@@ -208,6 +210,13 @@
   mltd:
     date: 2024.06.30
     event: 7D@ys Smile!!
+
+- song: REFRAIN REL@TION
+  unit: MILLIONSTARS
+  cover: true
+  mltd:
+    date: 2024.07.13
+    event: 「REFRAIN REL@TION」スペシャルコミュ
 
 - song: Hypernova
   member:
@@ -219,3 +228,65 @@
   mltd:
     date: 2024.07.19
     event: プラチナスタートラスト13～Hypernova～
+
+- song: アイル (Harmonized ver.)
+  member:
+    - 翼
+    - ジュリア
+    - 瑞希
+  mltd:
+    date: 2024.07.31
+    event: プラチナスターシアタースペシャル～アイル～
+
+- song: あたためますか？
+  member:
+    - 美奈子
+  mltd:
+    date: 2024.08.10
+    event: メインコミュ 第146話
+
+- song: 推しってほんと
+  member:
+    - 恵美
+    - エレナ
+    - 美奈子
+    - 琴葉
+    - 可奈
+  mltd:
+    date: 2024.08.18
+    event: プラチナスターティアラ～推しってほんと～
+
+- song: わたしは花、あなたは太陽
+  unit: FleurS
+  member:
+    - 百合子
+    - このみ
+    - 桃子
+  mltd:
+    date: 2024.08.31
+    event: プラチナスターシアタースペシャル～わたしは花、あなたは太陽～
+
+- song: 絵羽模様
+  member:
+    - エミリー
+  mltd:
+    date: 2024.09.10
+    event: メインコミュ 第147話
+
+- song: 未完成のポラリス
+  member:
+    - 美也
+    - 杏奈
+    - 歩
+    - 奈緒
+  mltd:
+    date: 2024.09.18
+    event: プラチナスターティアラ～未完成のポラリス～
+
+- song: スペードのQ ぴえぴえver.
+  member:
+    - 琴葉
+    - 星梨花
+  mltd:
+    date: 2024.09.27
+    event: ミリオンリンケージ ぴえぴえかふぇ編

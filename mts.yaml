@@ -1,23 +1,8 @@
 - song: Harmony 4 You
   unit: 765 MILLION ALLSTARS
-  mltd:
-    date: 2021.06.29
-    event: Reach 4 the Dre@m!
   release:
     date: 2021.07.28
     disc: THE IDOLM@STER MILLION THE@TER SEASON Harmony 4 You
-
-- song: EVERYDAY STARS!!
-  member:
-    - 貴音
-    - 瑞希
-    - ひなた
-    - 可奈
-    - 奈緒
-  cover: true
-  mltd:
-    date: 2021.05.18
-    event: プラチナスターツアースペシャル～EVERYDAY STARS!!～
 
 - song: ダイヤモンド・クラリティ
   unit: BRIGHT DIAMOND
@@ -35,9 +20,6 @@
     - 未来
     - 歌織
     - 桃子
-  mltd:
-    date: 2021.09.17
-    event: プラチナスタートレジャー～ダイヤモンド・クラリティ～
   release:
     date: 2021.10.27
     disc: THE IDOLM@STER MILLION THE@TER SEASON BRIGHT DIAMOND
@@ -48,9 +30,6 @@
     - まつり
     - 貴音
     - 恵美
-  mltd:
-    date: 2021.07.20
-    event: プラチナスターツアー～DIAMOND JOKER～
   release:
     date: 2021.10.27
     disc: THE IDOLM@STER MILLION THE@TER SEASON BRIGHT DIAMOND
@@ -61,9 +40,6 @@
     - 雪歩
     - 琴葉
     - 真美
-  mltd:
-    date: 2021.08.19
-    event: プラチナスターツアービンゴ～真夏のダイヤ☆～
   release:
     date: 2021.10.27
     disc: THE IDOLM@STER MILLION THE@TER SEASON BRIGHT DIAMOND
@@ -75,9 +51,6 @@
     - 未来
     - 歌織
     - 桃子
-  mltd:
-    date: 2021.09.01
-    event: プラチナスターテール～シークレットジュエル 魅惑の金剛石～
   release:
     date: 2021.10.27
     disc: THE IDOLM@STER MILLION THE@TER SEASON BRIGHT DIAMOND
@@ -119,9 +92,6 @@
     - 律子
     - 環
     - ひなた
-  mltd:
-    date: 2022.01.18
-    event: プラチナスタートレジャー～Shamrock Vivace～
   release:
     date: 2022.02.23
     disc: THE IDOLM@STER MILLION THE@TER SEASON CLEVER CLOVER
@@ -132,9 +102,6 @@
     - あずさ
     - 海美
     - ロコ
-  mltd:
-    date: 2021.11.16
-    event: プラチナスターツアー～産声とクラブ～
   release:
     date: 2022.02.23
     disc: THE IDOLM@STER MILLION THE@TER SEASON CLEVER CLOVER
@@ -145,9 +112,6 @@
     - 千鶴
     - エレナ
     - 瑞希
-  mltd:
-    date: 2021.12.17
-    event: プラチナスターツアービンゴ～トレフル・ド・ノエル～
   release:
     date: 2022.02.23
     disc: THE IDOLM@STER MILLION THE@TER SEASON CLEVER CLOVER
@@ -159,9 +123,6 @@
     - 律子
     - 環
     - ひなた
-  mltd:
-    date: 2022.01.02
-    event: プラチナスターテール～Clover's Cry 神と神降ろしの少女～
   release:
     date: 2022.02.23
     disc: THE IDOLM@STER MILLION THE@TER SEASON CLEVER CLOVER
@@ -203,9 +164,6 @@
     - 可奈
     - 春香
     - ジュリア
-  mltd:
-    date: 2022.05.17
-    event: プラチナスタートレジャー～空色♡ Birthday Card～
   release:
     date: 2022.06.29
     disc: THE IDOLM@STER MILLION THE@TER SEASON LOVERS HEART
@@ -216,9 +174,6 @@
     - やよい
     - 美奈子
     - 百合子
-  mltd:
-    date: 2022.03.19
-    event: プラチナスターツアー～LOVE is GAME～
   release:
     date: 2022.06.29
     disc: THE IDOLM@STER MILLION THE@TER SEASON LOVERS HEART
@@ -230,9 +185,6 @@
     - 千早
     - 麗花
     - 紗代子
-  mltd:
-    date: 2022.04.18
-    event: プラチナスターテール～紙・心・ペン・心 SHISHINPENSHIN～
   release:
     date: 2022.06.29
     disc: THE IDOLM@STER MILLION THE@TER SEASON LOVERS HEART
@@ -243,9 +195,6 @@
     - 可奈
     - 春香
     - ジュリア
-  mltd:
-    date: 2022.05.01
-    event: プラチナスターツアービンゴ～CHEER UP! HEARTS UP!～
   release:
     date: 2022.06.29
     disc: THE IDOLM@STER MILLION THE@TER SEASON LOVERS HEART
@@ -273,9 +222,6 @@
 
 - song: 夢にかけるRainbow
   unit: 765 MILLION ALLSTARS
-  mltd:
-    date: 2022.06.30
-    event: 私たちのR@inbow!
   release:
     date: 2022.07.27
     disc: THE IDOLM@STER MILLION THE@TER SEASON 夢にかけるRainbow
@@ -296,9 +242,6 @@
     - 響
     - 風花
     - 茜
-  mltd:
-    date: 2022.09.17
-    event: プラチナスタートレジャー～ESPADA～
   release:
     date: 2022.10.26
     disc: THE IDOLM@STER MILLION THE@TER SEASON SHADE OF SPADE
@@ -310,9 +253,6 @@
     - 静香
     - 可憐
     - 育
-  mltd:
-    date: 2022.07.21
-    event: プラチナスターテール～Criminally Dinner 正餐とイーヴルナイフ～
   release:
     date: 2022.10.26
     disc: THE IDOLM@STER MILLION THE@TER SEASON SHADE OF SPADE
@@ -323,9 +263,6 @@
     - 亜美
     - エミリー
     - 志保
-  mltd:
-    date: 2022.08.19
-    event: プラチナスターツアー～スペードのQ～
   release:
     date: 2022.10.26
     disc: THE IDOLM@STER MILLION THE@TER SEASON SHADE OF SPADE
@@ -336,9 +273,6 @@
     - 響
     - 風花
     - 茜
-  mltd:
-    date: 2022.09.01
-    event: プラチナスターツアービンゴ～KING of SPADE～
   release:
     date: 2022.10.26
     disc: THE IDOLM@STER MILLION THE@TER SEASON SHADE OF SPADE
@@ -372,9 +306,6 @@
     - ロコ
     - 桃子
     - 千鶴
-  mltd:
-    date: 2022.11.17
-    event: プラチナスタータイム～RisingLight～
   release:
     date: 2023.02.22
     disc: THE IDOLM@STER MILLION THE@TER SEASON FINAL
@@ -387,9 +318,6 @@
     - 麗花
     - エレナ
     - このみ
-  mltd:
-    date: 2022.12.17
-    event: プラチナスタータイム～ShineLight～
   release:
     date: 2023.02.22
     disc: THE IDOLM@STER MILLION THE@TER SEASON FINAL
@@ -402,9 +330,6 @@
     - 春香
     - 美奈子
     - 亜利沙
-  mltd:
-    date: 2023.01.18
-    event: プラチナスタータイム～EmotionLight～
   release:
     date: 2023.02.22
     disc: THE IDOLM@STER MILLION THE@TER SEASON FINAL
@@ -417,9 +342,6 @@
     - 貴音
     - エミリー
     - 風花
-  mltd:
-    date: 2023.01.31
-    event: プラチナスタータイム～EmotionLight～
   release:
     date: 2023.02.22
     disc: THE IDOLM@STER MILLION THE@TER SEASON FINAL

@@ -14,9 +14,6 @@
     - 海美
     - あずさ
     - 育
-  mltd:
-    date: 2020.12.18
-    event: プラチナスターテール～聖ミリオン女学園 はじまりの花～
   release:
     date: 2022.03.16
     disc: THE IDOLM@STER MILLION LIVE! 聖ミリオン女学園
@@ -36,9 +33,6 @@
     - 美奈子
     - 桃子
     - 恵美
-  mltd:
-    date: 2021.06.17
-    event: プラチナスターテール～聖ミリオン女学園 あなたへの花束～
   release:
     date: 2022.03.16
     disc: THE IDOLM@STER MILLION LIVE! 聖ミリオン女学園
@@ -52,15 +46,6 @@
   release:
     date: 2020.09.30
     disc: THE IDOLM@STERシリーズ15周年記念曲 「なんどでも笑おう」 【ミリオンライブ！盤】
-  mltd:
-    date: 2021.01.02
-    event: プラチナスターシアタースペシャル～なんどでも笑おう～
-
-- song: なんどでも笑おう
-  unit: 765PRO ALLSTARS
-  cover: true
-  mltd:
-    date: 2022.07.10
 
 - song: VOY@GER
   cover: true
@@ -71,9 +56,6 @@
   release:
     date: 2021.08.04
     disc: THE IDOLM@STERシリーズ イメージソング2021「VOY@GER」 【ミリオンライブ！盤】
-  mltd:
-    date: 2022.05.15
-    event: スペシャルコミュ
 
 - song: Crossing!
   unit: 765 MILLION ALLSTARS

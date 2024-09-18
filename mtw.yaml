@@ -1,8 +1,5 @@
 - song: Flyers!!!
   unit: 765 MILLION ALLSTARS
-  mltd:
-    date: 2019.07.01
-    event: UNI-ON@IR!!!!
   release:
     date: 2019.07.24
     disc: THE IDOLM@STER MILLION THE@TER WAVE 01 Flyers!!!
@@ -15,9 +12,6 @@
     - ジュリア
     - 真
     - 茜
-  mltd:
-    date: 2019.04.02
-    event: プラチナスターシアタースペシャル～アイドルヒーローズジェネシス Justice OR Voice～
   release:
     date: 2019.07.24
     disc: THE IDOLM@STER MILLION THE@TER WAVE 01 Flyers!!!
@@ -29,9 +23,6 @@
     - 莉緒
     - 歌織
     - 千鶴
-  mltd:
-    date: 2019.06.19
-    event: プラチナスターツアー～White Vows～
   release:
     date: 2019.07.24
     disc: THE IDOLM@STER MILLION THE@TER WAVE 01 Flyers!!!
@@ -44,9 +35,6 @@
     - ロコ
     - 杏奈
     - 瑞希
-  mltd:
-    date: 2019.07.23
-    event: プラチナスターツアー～dans l'obscurité～
   release:
     date: 2019.08.28
     disc: THE IDOLM@STER MILLION THE@TER WAVE 02 Chrono-Lexica
@@ -70,9 +58,6 @@
     - 美希
     - 真
     - 伊織
-  mltd:
-    date: 2019.08.21
-    event: プラチナスターツアー～ラビットファー～
   release:
     date: 2019.09.25
     disc: THE IDOLM@STER MILLION THE@TER WAVE 03 Xs
@@ -93,9 +78,6 @@
   member:
     - このみ
     - 莉緒
-  mltd:
-    date: 2019.11.18
-    event: プラチナスターツアー～Cherry Colored Love～
   release:
     date: 2019.12.25
     disc: THE IDOLM@STER MILLION THE@TER WAVE 04 Sherry'n Cherry
@@ -115,9 +97,6 @@
     - あずさ
     - 千早
     - 貴音
-  mltd:
-    date: 2019.12.17
-    event: プラチナスターツアー～Fermata in Rapsodia～
   release:
     date: 2020.01.29
     disc: THE IDOLM@STER MILLION THE@TER WAVE 05 ARCANA
@@ -138,9 +117,6 @@
     - エミリー
     - 紬
     - 朋花
-  mltd:
-    date: 2020.01.20
-    event: プラチナスターツアー～百花は月下に散りぬるを～
   release:
     date: 2020.02.26
     disc: THE IDOLM@STER MILLION THE@TER WAVE 06 花咲夜
@@ -160,9 +136,6 @@
   member:
     - 美奈子
     - 奈緒
-  mltd:
-    date: 2020.02.18
-    event: プラチナスターツアー～Super Duper～
   release:
     date: 2020.03.25
     disc: THE IDOLM@STER MILLION THE@TER WAVE 07 Jus-2-Mint
@@ -183,9 +156,6 @@
     - のり子
     - エレナ
     - 海美
-  mltd:
-    date: 2020.05.18
-    event: プラチナスターツアー～絶対的Performer～
   release:
     date: 2020.11.25
     disc: THE IDOLM@STER MILLION THE@TER WAVE 08 miraclesonic★expassion
@@ -208,9 +178,6 @@
     - 星梨花
     - 美也
     - ひなた
-  mltd:
-    date: 2020.06.18
-    event: プラチナスターツアー～Special Wonderful Smile～
   release:
     date: 2020.12.23
     disc: THE IDOLM@STER MILLION THE@TER WAVE 09 Fleuranges
@@ -228,9 +195,6 @@
 
 - song: Glow Map
   unit: 765 MILLION ALLSTARS
-  mltd:
-    date: 2020.06.29
-    event: CHALLENGE FOR GLOW-RY D@YS!!!
   release:
     date: 2020.08.26
     disc: THE IDOLM@STER MILLION THE@TER WAVE 10 Glow Map
@@ -242,9 +206,6 @@
     - 百合子
     - 昴
     - 翼
-  mltd:
-    date: 2020.05.27
-    event: スペシャルコミュ
   release:
     date: 2020.08.26
     disc: THE IDOLM@STER MILLION THE@TER WAVE 10 Glow Map
@@ -256,9 +217,6 @@
     - 歌織
     - まつり
     - 琴葉
-  mltd:
-    date: 2020.07.20
-    event: プラチナスターツアー～Parade d'amour～
   release:
     date: 2020.09.23
     disc: THE IDOLM@STER MILLION THE@TER WAVE 11 オペラセリア・煌輝座
@@ -280,9 +238,6 @@
     - やよい
     - 春香
     - 響
-  mltd:
-    date: 2020.08.19
-    event: プラチナスターツアー～Deep, Deep Blue～
   release:
     date: 2020.10.28
     disc: THE IDOLM@STER MILLION THE@TER WAVE 12 ダイヤモンドダイバー◇
@@ -303,9 +258,6 @@
     - 環
     - 育
     - 桃子
-  mltd:
-    date: 2020.09.18
-    event: プラチナスターツアー～Arrive You～
   release:
     date: 2021.01.27
     disc: THE IDOLM@STER MILLION THE@TER WAVE 13 TIntMe!
@@ -325,9 +277,6 @@
   member:
     - 麗花
     - 茜
-  mltd:
-    date: 2020.10.20
-    event: プラチナスターツアー～Black★Party～
   release:
     date: 2021.02.24
     disc: THE IDOLM@STER MILLION THE@TER WAVE 14 TRICK&TREAT
@@ -348,9 +297,6 @@
     - 風花
     - ジュリア
     - 千鶴
-  mltd:
-    date: 2021.10.02
-    event: プラチナスターツアー～深紅のパシオン～
   release:
     date: 2021.12.15
     disc: THE IDOLM@STER MILLION THE@TER WAVE 15 chicAAmor
@@ -372,9 +318,6 @@
     - 恵美
     - 亜利沙
     - 可奈
-  mltd:
-    date: 2021.02.18
-    event: プラチナスターツアー～ReTale～
   release:
     date: 2021.04.21
     disc: THE IDOLM@STER MILLION THE@TER WAVE 16 ≡君彩≡
@@ -395,9 +338,6 @@
     - 真美
     - 律子
     - 亜美
-  mltd:
-    date: 2021.03.19
-    event: プラチナスターツアー～フリースタイル・トップアイドル！～
   release:
     date: 2021.05.26
     disc: THE IDOLM@STER MILLION THE@TER WAVE 17 ARMooo
@@ -418,9 +358,6 @@
     - 未来
     - 静香
     - 翼
-  mltd:
-    date: 2021.04.18
-    event: プラチナスターツアー～ABSOLUTE RUN!!!～
   release:
     date: 2021.06.23
     disc: THE IDOLM@STER MILLION THE@TER WAVE 18 ストロベリーポップムーン

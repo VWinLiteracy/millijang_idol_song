@@ -1,0 +1,248 @@
+- song: Brand New Theater!
+  unit: 765 MILLION ALLSTARS
+  mltd:
+    date: 2017.06.29
+    event: チュートリアル
+
+- song: ココロがかえる場所
+  member:
+    - 雪歩
+    - 桃子
+    - 千鶴
+    - ロコ
+  mltd:
+    date: 2017.06.29
+    event: 初期実装
+
+- song: Blue Symphony
+  member:
+    - 千早
+    - 志保
+    - 琴葉
+    - 恵美
+  mltd:
+    date: 2017.06.29
+    event: 初期実装
+
+- song: Sentimental Venus
+  member:
+    - 伊織
+    - エミリー
+    - 瑞希
+    - 莉緒
+  mltd:
+    date: 2017.06.29
+    event: 初期実装
+
+- song: Marionetteは眠らない
+  member:
+    - 美希
+    - 翼
+    - 麗花
+    - ジュリア
+  mltd:
+    date: 2017.06.29
+    event: 初期実装
+
+- song: THE IDOLM@STER
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2017.06.29
+    event: パネルミッション
+
+- song: 素敵なキセキ
+  member:
+    - 未来
+  mltd:
+    date: 2017.06.29
+    event: メインコミュ 第1話
+
+- song: Precious Grain
+  member:
+    - 静香
+  mltd:
+    date: 2017.06.29
+    event: メインコミュ 第2話
+
+- song: 恋のLesson初級編
+  member:
+    - 翼
+  mltd:
+    date: 2017.06.29
+    event: メインコミュ 第3話
+
+- song: 瑠璃色金魚と花菖蒲
+  member:
+    - 紬
+  mltd:
+    date: 2017.06.29
+    event: メインコミュ 第4話
+
+- song: ハミングバード
+  member:
+    - 歌織
+  mltd:
+    date: 2017.06.29
+    event: メインコミュ 第5話
+
+- song: 透明なプロローグ
+  member:
+    - 百合子
+  mltd:
+    date: 2017.06.29
+    event: メインコミュ 第6話
+
+- song: トキメキの音符になって
+  member:
+    - 星梨花
+  mltd:
+    date: 2017.06.29
+    event: メインコミュ 第7話
+
+- song: スマイルいちばん
+  member:
+    - 美奈子
+  mltd:
+    date: 2017.06.29
+    event: メインコミュ 第8話
+
+- song: IMPRESSION→LOCOMOTION!
+  member:
+    - ロコ
+  mltd:
+    date: 2017.06.29
+    event: メインコミュ 第9話
+
+- song: Shooting Stars
+  unit: クレシェンドブルー
+  member:
+    - 静香
+    - 麗花
+    - 志保
+    - 茜
+    - 星梨花
+  mltd:
+    date: 2017.08.12
+    event: プラチナスターシアター～Shooting Stars～
+
+- song: Thank You!
+  unit: 765 MILLION ALLSTARS
+  mltd:
+    date: 2017.08.22
+    event: メインコミュ 第10話
+
+- song: Good-Sleep, Baby♡
+  member:
+    - やよい
+    - 環
+    - 育
+    - 可奈
+  mltd:
+    date: 2017.09.08
+    event: プラチナスターシアター～Good-Sleep, Baby♡～
+
+- song: ハッピー☆ラッキー☆ジェットマシーン
+  member:
+    - 奈緒
+  mltd:
+    date: 2017.09.20
+    event: メインコミュ 第11話
+
+- song: Growing Storm!
+  unit: 乙女ストーム！
+  member:
+    - 未来
+    - 翼
+    - 百合子
+    - 瑞希
+    - 杏奈
+  mltd:
+    date: 2017.09.30
+    event: プラチナスターシアター～Growing Storm!～
+
+- song: 自分REST@RT
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2017.10.08
+    event: 「HOTCHPOTCH FESTIV@L!!」連動
+
+- song: アフタースクールパーリータイム
+  member:
+    - 恵美
+  mltd:
+    date: 2017.10.11
+    event: メインコミュ 第12話
+
+- song: FairyTaleじゃいられない
+  unit: フェアリースターズ
+  member:
+    - 静香
+    - 紬
+    - 恵美
+    - ジュリア
+    - 志保
+  mltd:
+    date: 2017.10.20
+    event: プラチナスターツアー～FairyTaleじゃいられない～
+
+- song: STANDING ALIVE
+  unit: ARRIVE
+  member:
+    - 可憐
+    - 貴音
+    - エレナ
+    - 莉緒
+    - ロコ
+  mltd:
+    date: 2017.11.01
+    event: プラチナスターシアター～STANDING ALIVE～
+
+- song: Happy Darling
+  member:
+    - 杏奈
+  mltd:
+    date: 2017.11.10
+    event: メインコミュ 第13話
+
+- song: Angelic Parade♪
+  unit: エンジェルスターズ
+  member:
+    - 翼
+    - 歌織
+    - 麗花
+    - 杏奈
+    - 星梨花
+  mltd:
+    date: 2017.11.21
+    event: プラチナスターツアー～Angelic Parade♪～
+
+- song: ドリームトラベラー
+  unit: ミックスナッツ
+  member:
+    - このみ
+    - ひなた
+    - 美奈子
+    - 育
+    - 真美
+  mltd:
+    date: 2017.12.04
+    event: プラチナスターシアター～ドリームトラベラー～
+
+- song: オリジナル声になって
+  member:
+    - 可奈
+  mltd:
+    date: 2017.12.12
+    event: メインコミュ 第14話
+
+- song: Princess Be Ambitious!!
+  unit: プリンセススターズ
+  member:
+    - 未来
+    - まつり
+    - 百合子
+    - 可奈
+    - エミリー
+  mltd:
+    date: 2017.12.21
+    event: プラチナスターツアー～Princess Be Ambitious!!～

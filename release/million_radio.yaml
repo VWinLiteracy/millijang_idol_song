@@ -5,7 +5,7 @@
     - 星梨花
   release:
     date: 2014.06.04
-    disc: THE IDOLM@STER MILLION RADIO! U・N・M・E・I ライブ
+    disc: U・N・M・E・I ライブ
 
 - song: Thank You! -MR remix-
   member:
@@ -15,7 +15,7 @@
   cover: true
   release:
     date: 2014.06.04
-    disc: THE IDOLM@STER MILLION RADIO! U・N・M・E・I ライブ
+    disc: U・N・M・E・I ライブ
 
 - song: Welcome!! -MR remix-
   member:
@@ -34,7 +34,7 @@
     - 星梨花
   release:
     date: 2016.08.10
-    disc: THE IDOLM@STER MILLION RADIO! ターンオンタイム！
+    disc: ターンオンタイム！
 
 - song: Dreaming! -MR remix-
   member:
@@ -44,7 +44,7 @@
   cover: true
   release:
     date: 2016.08.10
-    disc: THE IDOLM@STER MILLION RADIO! ターンオンタイム！
+    disc: ターンオンタイム！
 
 - song: ENDLESS TOUR
   member:
@@ -53,7 +53,7 @@
     - 星梨花
   release:
     date: 2020.04.29
-    disc: THE IDOLM@STER MILLION RADIO! ENDLESS TOUR
+    disc: ENDLESS TOUR
 
 - song: Flyers!!! -MR remix-
   member:
@@ -63,7 +63,7 @@
   cover: true
   release:
     date: 2020.04.29
-    disc: THE IDOLM@STER MILLION RADIO! ENDLESS TOUR
+    disc: ENDLESS TOUR
 
 - song: SECOND LIVINGROOM
   member:
@@ -72,7 +72,7 @@
     - 星梨花
   release:
     date: 2023.03.29
-    disc: THE IDOLM@STER MILLION RADIO! SECOND LIVINGROOM
+    disc: SECOND LIVINGROOM
 
 - song: U・N・M・E・I ライブ -MR remix-
   member:
@@ -82,4 +82,23 @@
   cover: true
   release:
     date: 2023.03.29
-    disc: THE IDOLM@STER MILLION RADIO! SECOND LIVINGROOM
+    disc: SECOND LIVINGROOM
+
+- song: さんぶんのいち
+  member:
+    - 未来
+    - 静香
+    - 星梨花
+  release:
+    date: 2024.03.27
+    disc: さんぶんのいち
+
+- song: ターンオンタイム！-MR remix-
+  member:
+    - 未来
+    - 静香
+    - 星梨花
+  cover: true
+  release:
+    date: 2024.03.27
+    disc: さんぶんのいち

@@ -1,0 +1,480 @@
+- song: Do the IDOL!! ～謹賀新年リミックス～
+  member:
+    - 翼
+    - エミリー
+    - 百合子
+    - 朋花
+    - 昴
+  cover: true
+  mltd:
+    date: 2021.01.01
+    event: 「ミリシタカウントダウン2020-2021」連動
+
+- song: なんどでも笑おう
+  member:
+    - 未来
+    - 静香
+    - 翼
+  cover: true
+  mltd:
+    date: 2021.01.02
+    event: プラチナスターシアタースペシャル～なんどでも笑おう～
+
+- song: 絵本
+  member:
+    - 志保
+  mltd:
+    date: 2021.01.11
+    event: メインコミュ 第78話
+
+- song: WORLD WIDE DANCE!!!
+  member:
+    - 真
+  mltd:
+    date: 2021.01.28
+    event: メインコミュ 第79話
+
+- song: RED ZONE
+  unit: 4 Luxury
+  member:
+    - このみ
+    - 麗花
+    - 歌織
+    - 風花
+  mltd:
+    date: 2021.02.01
+    event: プラチナスターチューン～RED ZONE～
+
+- song: Only One Second
+  member:
+    - 紗代子
+  mltd:
+    date: 2021.02.11
+    event: メインコミュ 第80話
+
+- song: ReTale
+  unit: ≡君彩≡
+  member:
+    - 恵美
+    - 亜利沙
+    - 可奈
+  mltd:
+    date: 2021.02.18
+    event: プラチナスターツアー～ReTale～
+
+- song: スノウレター
+  member:
+    - ひなた
+  mltd:
+    date: 2021.02.27
+    event: メインコミュ 第81話
+
+- song: P.S I Love You
+  unit: ピスケス
+  member:
+    - 朋花
+    - 千鶴
+    - 可憐
+  mltd:
+    date: 2021.03.03
+    event: プラチナスターシアター～P.S I Love You～
+
+- song: デコレーション・ドリ～ミンッ♪
+  member:
+    - 桃子
+  mltd:
+    date: 2021.03.12
+    event: メインコミュ 第82話
+
+- song: フリースタイル・トップアイドル！
+  unit: ARMooo
+  member:
+    - 真美
+    - 律子
+    - 亜美
+  mltd:
+    date: 2021.03.19
+    event: プラチナスターツアー～フリースタイル・トップアイドル！～
+
+- song: サニー
+  member:
+    - 海美
+    - 環
+  cover: true
+  mltd:
+    date: 2021.03.29
+    event: ミリオンフェス
+
+- song: サニー
+  member:
+    - 律子
+    - 雪歩
+    - 亜美
+    - 真美
+    - あずさ
+    - 伊織
+  mltd:
+    date: 2021.03.29
+    event: ミリオンフェス
+
+- song: 創造は始まりの風を連れて
+  member:
+    - 百合子
+    - ロコ
+    - 朋花
+    - 星梨花
+    - 亜利沙
+  mltd:
+    date: 2021.04.02
+    event: プラチナスターシアター～創造は始まりの風を連れて～
+
+- song: フラワーガール
+  member:
+    - 貴音
+  mltd:
+    date: 2021.04.11
+    event: メインコミュ 第83話
+
+- song: ABSOLUTE RUN!!!
+  unit: ストロベリーポップムーン
+  member:
+    - 未来
+    - 静香
+    - 翼
+  mltd:
+    date: 2021.04.18
+    event: プラチナスターツアー～ABSOLUTE RUN!!!～
+
+- song: Day After "Yesterday"
+  member:
+    - 昴
+  mltd:
+    date: 2021.04.28
+    event: メインコミュ 第84話
+
+- song: I did+I will
+  unit: Jelly PoP Beans
+  member:
+    - 桃子
+    - 昴
+    - 歩
+    - ロコ
+  mltd:
+    date: 2021.05.02
+    event: プラチナスターチューン～I did+I will～
+
+- song: 初恋バタフライ
+  member:
+    - 美也
+  mltd:
+    date: 2021.05.11
+    event: メインコミュ 第85話
+
+- song: EVERYDAY STARS!!
+  member:
+    - 貴音
+    - 瑞希
+    - ひなた
+    - 可奈
+    - 奈緒
+  mltd:
+    date: 2021.05.18
+    event: プラチナスターツアースペシャル～EVERYDAY STARS!!～
+
+- song: AIKANE？
+  member:
+    - 茜
+  mltd:
+    date: 2021.05.27
+    event: メインコミュ 第86話
+
+- song: リフレインキス
+  unit: スコーピオ
+  member:
+    - 琴葉
+    - 志保
+    - 海美
+    - 亜利沙
+  mltd:
+    date: 2021.05.31
+    event: プラチナスターシアター～リフレインキス～
+
+- song: ちいさな恋の足音
+  member:
+    - 可憐
+  mltd:
+    date: 2021.06.10
+    event: メインコミュ 第87話
+
+- song: 花びらメモリーズ
+  member:
+    - 紬
+    - 美奈子
+    - 桃子
+    - 恵美
+  mltd:
+    date: 2021.06.17
+    event: プラチナスターテール～聖ミリオン女学園 あなたへの花束～
+
+- song: カーニヴァル・ジャパネスク
+  member:
+    - まつり
+  mltd:
+    date: 2021.06.25
+    event: メインコミュ 第88話
+
+- song: edeN
+  member:
+    - ジュリア
+    - 麗花
+  cover: true
+  mltd:
+    date: 2021.06.28
+    event: ミリオンフェス
+
+- song: edeN
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2021.06.28
+    event: ミリオンフェス
+
+- song: Harmony 4 You
+  unit: 765 MILLION ALLSTARS
+  mltd:
+    date: 2021.06.29
+    event: Reach 4 the Dre@m!
+
+- song: スポーツ！スポーツ！スポーツ！
+  member:
+    - 海美
+  mltd:
+    date: 2021.07.13
+    event: メインコミュ 第89話
+
+- song: DIAMOND JOKER
+  member:
+    - 翼
+    - まつり
+    - 貴音
+    - 恵美
+  mltd:
+    date: 2021.07.20
+    event: プラチナスターツアー～DIAMOND JOKER～
+
+- song: MUSIC♪
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2021.07.28
+    event: 「アイマス16周年生配信」連動
+
+- song: 鳥籠スクリプチュア
+  member:
+    - 朋花
+  mltd:
+    date: 2021.07.29
+    event: メインコミュ 第90話
+
+- song: Tomorrow Program
+  unit: トゥインクルリズム
+  member:
+    - 亜利沙
+    - 百合子
+    - 育
+  mltd:
+    date: 2021.08.03
+    event: プラチナスターチューン～Tomorrow Program～
+
+- song: Pon De Beach
+  member:
+    - 響
+  mltd:
+    date: 2021.08.12
+    event: メインコミュ 第91話
+
+- song: 真夏のダイヤ☆
+  member:
+    - 莉緒
+    - 雪歩
+    - 琴葉
+    - 真美
+  mltd:
+    date: 2021.08.19
+    event: プラチナスターツアービンゴ～真夏のダイヤ☆～
+
+- song: bitter sweet
+  member:
+    - 風花
+  mltd:
+    date: 2021.08.28
+    event: メインコミュ 第92話
+
+- song: シークレットジュエル ～魅惑の金剛石～
+  member:
+    - 伊織
+    - 美也
+    - 未来
+    - 歌織
+    - 桃子
+  mltd:
+    date: 2021.09.01
+    event: プラチナスターテール～シークレットジュエル 魅惑の金剛石～
+
+- song: Get My Shinin'
+  member:
+    - 歩
+  mltd:
+    date: 2021.09.10
+    event: メインコミュ 第93話
+
+- song: ダイヤモンド・クラリティ
+  unit: BRIGHT DIAMOND
+  member:
+    - 歌織
+    - 貴音
+    - 翼
+    - 未来
+    - 桃子
+    - 琴葉
+    - まつり
+    - 恵美
+    - 雪歩
+    - 真美
+    - 伊織
+    - 美也
+    - 莉緒
+  mltd:
+    date: 2021.09.17
+    event: プラチナスタートレジャー～ダイヤモンド・クラリティ～
+
+- song: 聖炎の女神
+  member:
+    - ひなた
+    - 真
+  cover: true
+  mltd:
+    date: 2021.09.26
+    event: ミリオンフェス
+
+- song: 聖炎の女神
+  member:
+    - 律子
+    - 貴音
+  mltd:
+    date: 2021.09.26
+    event: ミリオンフェス
+
+- song: 想いはCarnaval
+  member:
+    - エレナ
+  mltd:
+    date: 2021.09.27
+    event: メインコミュ 第94話
+
+- song: 深紅のパシオン
+  unit: chicAAmor
+  member:
+    - 紗代子
+    - 風花
+    - ジュリア
+    - 千鶴
+  mltd:
+    date: 2021.10.02
+    event: プラチナスターツアー～深紅のパシオン～
+
+- song: ホントウノワタシ
+  member:
+    - 琴葉
+  mltd:
+    date: 2021.10.11
+    event: メインコミュ 第95話
+
+- song: ワールド・アスレチック・COOK-KING ～勝者必食！？スポ食の秋～
+  member:
+    - 育
+    - 響
+    - 美奈子
+    - 可憐
+    - 歩
+  mltd:
+    date: 2021.10.18
+    event: プラチナスタートラスト～クッキング大運動会！～
+
+- song: ストロベリー・キューピッド
+  member:
+    - やよい
+  mltd:
+    date: 2021.10.27
+    event: メインコミュ 第96話
+
+- song: Emergence Vibe
+  member:
+    - エレナ
+    - 美希
+  mltd:
+    date: 2021.10.31
+    event: プラチナスターシアター～Emergence Vibe～
+
+- song: Liar's good bye
+  member:
+    - 律子
+  mltd:
+    date: 2021.11.09
+    event: メインコミュ 第97話
+
+- song: 産声とクラブ
+  member:
+    - 星梨花
+    - あずさ
+    - 海美
+    - ロコ
+  mltd:
+    date: 2021.11.16
+    event: プラチナスターツアー～産声とクラブ～
+
+- song: ホップ♪ステップ♪レインボウ♪
+  member:
+    - 環
+  mltd:
+    date: 2021.11.26
+    event: メインコミュ 第98話
+
+- song: ミラージュ・ミラー
+  unit: Charlotte・Charlotte
+  member:
+    - エミリー
+    - まつり
+  mltd:
+    date: 2021.11.30
+    event: プラチナスターチューン～ミラージュ・ミラー～
+
+- song: トレフル・ド・ノエル
+  member:
+    - 真
+    - 千鶴
+    - エレナ
+    - 瑞希
+  mltd:
+    date: 2021.12.17
+    event: プラチナスターツアービンゴ～トレフル・ド・ノエル～
+
+- song: Miracle Night
+  member:
+    - 千早
+    - 紗代子
+  cover: true
+  mltd:
+    date: 2021.12.25
+    event: ミリオンフェス
+
+- song: Miracle Night
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2021.12.25
+    event: ミリオンフェス
+
+- song: I Want
+  member:
+    - 春香
+  mltd:
+    date: 2021.12.26
+    event: メインコミュ 第100話

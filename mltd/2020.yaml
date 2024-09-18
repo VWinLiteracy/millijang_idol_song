@@ -1,0 +1,477 @@
+- song: 俠気乱舞
+  member:
+    - 桃子
+    - ひなた
+    - 環
+    - ジュリア
+    - のり子
+  mltd:
+    date: 2020.01.02
+    event: プラチナスターシアター～俠気乱舞～
+
+- song: Believe my change!
+  member:
+    - 翼
+  mltd:
+    date: 2020.01.12
+    event: メインコミュ 第56話
+
+- song: インヴィンシブル・ジャスティス
+  unit: マイティセーラーズ
+  member:
+    - 百合子
+    - 翼
+  cover: true
+  mltd:
+    date: 2020.01.19
+    event: 「ミリシタ感謝祭2019～2020」連動
+
+- song: 百花は月下に散りぬるを
+  unit: 花咲夜
+  member:
+    - エミリー
+    - 紬
+    - 朋花
+  mltd:
+    date: 2020.01.20
+    event: プラチナスターツアー～百花は月下に散りぬるを～
+
+- song: スタ→トスタ→
+  member:
+    - 亜美
+    - 真美
+  mltd:
+    date: 2020.01.29
+    event: メインコミュ 第57話
+
+- song: メメント？モメント♪ルルルルル☆
+  unit: タウラス
+  member:
+    - 美也
+    - まつり
+    - 未来
+  mltd:
+    date: 2020.02.02
+    event: プラチナスターシアター～メメント？モメント♪ルルルルル☆～
+
+- song: おまじない
+  member:
+    - 可奈
+  mltd:
+    date: 2020.02.11
+    event: メインコミュ 第58話
+
+- song: Super Duper
+  unit: Jus-2-Mint
+  member:
+    - 美奈子
+    - 奈緒
+  mltd:
+    date: 2020.02.18
+    event: プラチナスターツアー～Super Duper～
+
+- song: プライヴェイト・ロードショウ (playback, Weekday)
+  member:
+    - 伊織
+  mltd:
+    date: 2020.02.27
+    event: メインコミュ 第59話
+
+- song: Beat the World!!!
+  member:
+    - 真
+    - 歩
+  mltd:
+    date: 2020.03.02
+    event: プラチナスターシアター～Beat the World!!!～
+
+- song: Be My Boy
+  member:
+    - 莉緒
+  mltd:
+    date: 2020.03.11
+    event: メインコミュ 第60話
+
+- song: 深層マーメイド
+  member:
+    - 響
+    - 翼
+  mltd:
+    date: 2020.03.18
+    event: プラチナスターツインステージ～深淵の蒼、熱焔の緋～
+
+- song: アライアンス・スターダスト
+  unit: ZWEIGLANZ
+  member:
+    - 玲音
+    - 詩花
+  mltd:
+    date: 2020.03.18
+    event: プラチナスターツインステージ～深淵の蒼、熱焔の緋～
+
+- song: 自転車
+  member:
+    - 真
+  mltd:
+    date: 2020.03.27
+    event: メインコミュ 第61話
+
+- song: shiny smile
+  member:
+    - 春香
+    - 可憐
+  cover: true
+  mltd:
+    date: 2020.03.29
+    event: ミリオンフェス
+
+- song: shiny smile
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2020.03.29
+    event: ミリオンフェス
+
+- song: Helloコンチェルト
+  member:
+    - 亜利沙
+    - 律子
+    - ひなた
+    - 美奈子
+  mltd:
+    date: 2020.04.02
+    event: プラチナスターシアター～Helloコンチェルト～
+
+- song: VIVID イマジネーション
+  member:
+    - 杏奈
+  mltd:
+    date: 2020.04.11
+    event: メインコミュ 第62話
+
+- song: クルリウタ
+  member:
+    - 茜
+    - エレナ
+    - 志保
+    - 歌織
+    - 千鶴
+  mltd:
+    date: 2020.04.19
+    event: プラチナスターツアー～クルリウタ～
+
+- song: 黎明スターライン
+  member:
+    - 亜美
+    - 真美
+  mltd:
+    date: 2020.04.28
+    event: メインコミュ 第63話
+
+- song: Bigバルーン◎
+  member:
+    - 亜美
+    - このみ
+    - 昴
+    - 茜
+  mltd:
+    date: 2020.05.02
+    event: プラチナスターシアター～Bigバルーン◎～
+
+- song: ときどきシーソー
+  member:
+    - 育
+  mltd:
+    date: 2020.05.11
+    event: メインコミュ 第64話
+
+- song: 絶対的Performer
+  unit: miraclesonic★expassion
+  member:
+    - 歩
+    - のり子
+    - エレナ
+    - 海美
+  mltd:
+    date: 2020.05.18
+    event: プラチナスターツアー～絶対的Performer～
+
+- song: Do the IDOL!! ～断崖絶壁チュパカブラ～
+  member:
+    - 翼
+    - エミリー
+    - 百合子
+    - 朋花
+    - 昴
+  mltd:
+    date: 2020.05.27
+    event: 「劇場宣伝ソング」スペシャルコミュ
+
+- song: アライブファクター
+  member:
+    - 千早
+    - 静香
+  mltd:
+    date: 2020.05.31
+    event: プラチナスターシアター～アライブファクター～
+
+- song: 空想文学少女
+  member:
+    - 百合子
+  mltd:
+    date: 2020.06.10
+    event: メインコミュ 第65話
+
+- song: Special Wonderful Smile
+  unit: Fleuranges
+  member:
+    - 可憐
+    - 星梨花
+    - ひなた
+    - 美也
+  mltd:
+    date: 2020.06.18
+    event: プラチナスターツアー～Special Wonderful Smile～
+
+- song: いっぱいいっぱい
+  member:
+    - 律子
+  mltd:
+    date: 2020.06.26
+    event: メインコミュ 第66話
+
+- song: ラムネ色 青春
+  member:
+    - 美也
+    - まつり
+    - 朋花
+  cover: true
+  mltd:
+    date: 2020.06.28
+    event: ミリオンフェス
+
+- song: ラムネ色 青春
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2020.06.28
+    event: ミリオンフェス
+
+- song: Glow Map
+  unit: 765 MILLION ALLSTARS
+  mltd:
+    date: 2020.06.29
+    event: CHALLENGE FOR GLOW-RY D@YS!!!
+
+- song: Catch my dream
+  member:
+    - 静香
+  mltd:
+    date: 2020.07.13
+    event: メインコミュ 第67話
+
+- song: Parade d'amour
+  unit: オペラセリア・煌輝座
+  member:
+    - 志保
+    - 歌織
+    - 琴葉
+    - まつり
+  mltd:
+    date: 2020.07.20
+    event: プラチナスターツアー～Parade d'amour～
+
+- song: キラメキ進行形
+  member:
+    - 春香
+  mltd:
+    date: 2020.07.29
+    event: メインコミュ 第68話
+
+- song: BORN ON DREAM! ～HANABI☆NIGHT～
+  unit: 閃光☆HANABI団
+  member:
+    - のり子
+    - 美奈子
+    - 海美
+    - 紗代子
+    - 奈緒
+  mltd:
+    date: 2020.08.03
+    event: プラチナスターチューン～BORN ON DREAM!～
+
+- song: 夢色トレイン
+  member:
+    - 星梨花
+  mltd:
+    date: 2020.08.12
+    event: メインコミュ 第69話
+
+- song: Deep, Deep Blue
+  unit: ダイヤモンドダイバー◇
+  member:
+    - やよい
+    - 春香
+    - 響
+  mltd:
+    date: 2020.08.19
+    event: プラチナスターツアー～Deep, Deep Blue～
+
+- song: フローズン・ワード
+  member:
+    - 恵美
+  mltd:
+    date: 2020.08.28
+    event: メインコミュ 第70話
+
+- song: little trip around the world
+  member:
+    - 伊織
+    - エミリー
+  mltd:
+    date: 2020.09.01
+    event: プラチナスターシアター～little trip around the world～
+
+- song: 追憶のサンドグラス
+  member:
+    - 美希
+  mltd:
+    date: 2020.09.10
+    event: メインコミュ 第71話
+
+- song: Arrive You ～それが運命でも～
+  unit: TIntMe!
+  member:
+    - 環
+    - 育
+    - 桃子
+  mltd:
+    date: 2020.09.18
+    event: プラチナスターツアー～Arrive You～
+
+- song: 水中キャンディ
+  member:
+    - このみ
+  mltd:
+    date: 2020.09.28
+    event: メインコミュ 第72話
+
+- song: 99 Nights
+  member:
+    - 莉緒
+    - 風花
+  cover: true
+  mltd:
+    date: 2020.09.28
+    event: ミリオンフェス
+
+- song: 99 Nights
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2020.09.28
+    event: ミリオンフェス
+
+- song: Persona Voice
+  member:
+    - 千鶴
+    - 雪歩
+  mltd:
+    date: 2020.10.03
+    event: プラチナスターシアター～Persona Voice～
+
+- song: マイペース☆マイウェイ
+  member:
+    - のり子
+  mltd:
+    date: 2020.10.12
+    event: メインコミュ 第73話
+
+- song: Black★Party
+  unit: TRICK&TREAT
+  member:
+    - 麗花
+    - 茜
+  mltd:
+    date: 2020.10.20
+    event: プラチナスターツアー～Black★Party～
+
+- song: STEREOPHONIC ISOTONIC
+  member:
+    - ロコ
+  mltd:
+    date: 2020.10.29
+    event: メインコミュ 第74話
+
+- song: 餞の鳥
+  unit: D/Zeal
+  member:
+    - 静香
+    - ジュリア
+  mltd:
+    date: 2020.11.02
+    event: プラチナスターチューン～餞の鳥～
+
+- song: 嘆きのFRACTION
+  member:
+    - あずさ
+  mltd:
+    date: 2020.11.11
+    event: メインコミュ 第75話
+
+- song: クレイジークレイジー
+  member:
+    - 志希
+    - フレデリカ
+    - エレナ
+    - 美也
+  mltd:
+    date: 2020.11.18
+    event: プラチナスターツインステージスペシャル～Legit Crossover～
+
+- song: 虹色letters
+  unit: レイジー・レイジー
+  member:
+    - フレデリカ
+    - 志希
+  mltd:
+    date: 2020.11.18
+    event: プラチナスターツインステージスペシャル～Legit Crossover～
+
+- song: Super Lover
+  member:
+    - 奈緒
+  mltd:
+    date: 2020.11.27
+    event: メインコミュ 第76話
+
+- song: NO CURRY NO LIFE
+  unit: カプリコーン
+  member:
+    - 杏奈
+    - 可奈
+    - 莉緒
+  mltd:
+    date: 2020.12.01
+    event: プラチナスターシアター～NO CURRY NO LIFE～
+
+- song: カーテシーフラワー
+  member:
+    - 海美
+    - あずさ
+    - 育
+  mltd:
+    date: 2020.12.18
+    event: プラチナスターテール～聖ミリオン女学園 はじまりの花～
+
+- song: Little Match Girl
+  member:
+    - 美奈子
+    - 瑞希
+  cover: true
+  mltd:
+    date: 2020.12.25
+    event: ミリオンフェス
+
+- song: Little Match Girl
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2020.12.25
+    event: ミリオンフェス

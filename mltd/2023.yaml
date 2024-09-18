@@ -1,3 +1,359 @@
+- song: Decided
+  member:
+    - このみ
+    - まつり
+  mltd:
+    date: 2023.01.02
+    event: プラチナスターシアター～Decided～
+
+- song: I'm yours
+  member:
+    - 春香
+  mltd:
+    date: 2023.01.11
+    event: メインコミュ 第124話
+
+- song: オレンジ・エピソード
+  member:
+    - 美奈子
+    - 志保
+    - 春香
+    - 歩
+    - 亜利沙
+  mltd:
+    date: 2023.01.18
+    event: プラチナスタータイム～EmotionLight～
+
+- song: ENTER→PLEASURE
+  member:
+    - 杏奈
+  mltd:
+    date: 2023.01.27
+    event: メインコミュ 第125話
+
+- song: Like twinkling STARS
+  member:
+    - 可憐
+    - 真美
+    - エミリー
+    - 貴音
+    - 風花
+  mltd:
+    date: 2023.01.31
+    event: プラチナスタータイム～EmotionLight～
+
+- song: Contrastet
+  member:
+    - 歌織
+  mltd:
+    date: 2023.02.10
+    event: メインコミュ 第126話
+
+- song: Crossing!
+  unit: 765 MILLION ALLSTARS
+  mltd:
+    date: 2023.02.14
+    event: MILLION LIVE! 10th ANNIVERSARY～Beyond @ Crossing～
+
+- song: Sweet Sweet Soul
+  unit: アリエス
+  member:
+    - 茜
+    - 環
+    - 星梨花
+  mltd:
+    date: 2023.03.01
+    event: プラチナスターシアター～Sweet Sweet Soul～
+
+- song: Home is a coming now!
+  member:
+    - 奈緒
+  mltd:
+    date: 2023.03.11
+    event: メインコミュ 第127話
+
+- song: 春風満帆スターティング
+  member:
+    - 雪歩
+    - のり子
+    - 真
+    - 昴
+    - 静香
+  mltd:
+    date: 2023.03.18
+    event: プラチナスタートラスト～春風満帆✿お花見パーティー～
+
+- song: おとなのはじまり
+  member:
+    - 亜美
+    - 千鶴
+  cover: true
+  mltd:
+    date: 2023.03.29
+    event: ミリオンフェス
+
+- song: おとなのはじまり
+  member:
+    - 伊織
+    - やよい
+    - 亜美
+    - 真美
+  mltd:
+    date: 2023.03.29
+    event: ミリオンフェス
+
+- song: Cut. Cut. Cut.
+  member:
+    - 瑞希
+    - 桃子
+  mltd:
+    date: 2023.04.02
+    event: プラチナスターシアター～Cut. Cut. Cut.～
+
+- song: シャクネツのパレード
+  member:
+    - エレナ
+  mltd:
+    date: 2023.04.12
+    event: メインコミュ 第128話
+
+- song: リベレイシング／アロン -LiberaSing Along-
+  member:
+    - 千早
+    - ひなた
+    - 朋花
+    - まつり
+    - このみ
+  mltd:
+    date: 2023.04.19
+    event: プラチナスタートラストスペシャル アイドルスペースウォーズ～LiberaSing Along～
+
+- song: 君想いBirthday
+  member:
+    - 紗代子
+  mltd:
+    date: 2023.04.28
+    event: メインコミュ 第129話
+
+- song: エスケープ
+  member:
+    - ジュリア
+    - 恵美
+  mltd:
+    date: 2023.05.09
+    event: プラチナスターシアター～エスケープ～
+
+- song: 祈りの羽根
+  member:
+    - 風花
+  mltd:
+    date: 2023.05.11
+    event: メインコミュ 第130話
+
+- song: 電波感傷
+  unit: オフィウクス
+  member:
+    - 歌織
+    - 紬
+  mltd:
+    date: 2023.05.19
+    event: プラチナスターツアー～電波感傷～
+
+- song: ソナー
+  member:
+    - 伊織
+  mltd:
+    date: 2023.05.27
+    event: メインコミュ 第131話
+
+- song: Legend Girls!!
+  member:
+    - 静香
+    - 春香
+    - 朋花
+    - 百合子
+    - 星梨花
+  mltd:
+    date: 2023.05.31
+    event: プラチナスターシアター～Legend Girls!!～
+
+- song: たんけんぼうけん☆ハイホー隊
+  member:
+    - 環
+  mltd:
+    date: 2023.06.09
+    event: メインコミュ 第132話
+
+- song: 夢みがちBride
+  member:
+    - 響
+    - 奈緒
+    - 海美
+    - 瑞希
+    - 美也
+  mltd:
+    date: 2023.06.16
+    event: プラチナスターツアービンゴ～夢みがちBride～
+
+- song: アマテラス
+  member:
+    - 雪歩
+    - 歩
+  cover: true
+  mltd:
+    date: 2023.06.28
+    event: ミリオンフェス
+
+- song: アマテラス
+  member:
+    - 雪歩
+    - あずさ
+    - 貴音
+    - 律子
+  mltd:
+    date: 2023.06.28
+    event: ミリオンフェス
+
+- song: グッドサイン
+  unit: 765 MILLION ALLSTARS
+  mltd:
+    date: 2023.06.30
+    event: R@ise a Good Sign!
+
+- song: パーフェクトゲーム
+  member:
+    - 昴
+  mltd:
+    date: 2023.07.13
+    event: メインコミュ 第133話
+
+- song: カンパリーナ♡
+  member:
+    - あずさ
+    - 千鶴
+    - 麗花
+    - 貴音
+    - 風花
+  mltd:
+    date: 2023.07.19
+    event: プラチナスタートラスト～夏夜絢爛☆ナイトプールパーティー！～
+
+- song: DATE PARADE!
+  member:
+    - 美希
+  mltd:
+    date: 2023.07.28
+    event: メインコミュ 第134話
+
+- song: I.D ～EScape from Utopia～
+  unit: EScape
+  member:
+    - 紬
+    - 志保
+    - 瑞希
+  mltd:
+    date: 2023.08.02
+    event: プラチナスターチューン～I.D EScape from Utopia～
+
+- song: Coming Smile
+  member:
+    - 千早
+  mltd:
+    date: 2023.08.11
+    event: メインコミュ 第135話
+
+- song: M@STERPIECE
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2023.08.18
+    event: プラチナスタートレジャースペシャル～M@STERPIECE～
+
+- song: Dance in the Light
+  member:
+    - 歩
+    - 伊織
+    - 紗代子
+    - 昴
+    - 莉緒
+  mltd:
+    date: 2023.09.01
+    event: プラチナスタートラスト～Crazy for DANCE!～
+
+- song: 微笑んだから、気づいたんだ。
+  member:
+    - 亜美
+  mltd:
+    date: 2023.09.10
+    event: メインコミュ 第136話
+
+- song: Rat A Tat!!!
+  unit: MILLIONSTARS
+  mltd:
+    date: 2023.09.17
+    event: プラチナスターツアービンゴスペシャル～Rat A Tat!!!～
+
+- song: CHANGE!!!!
+  member:
+    - 真美
+    - 律子
+  cover: true
+  mltd:
+    date: 2023.09.28
+    event: ミリオンフェス
+
+- song: CHANGE!!!!
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2023.09.28
+    event: ミリオンフェス
+
+- song: Star Impression
+  unit: MILLIONSTARS Team1st
+  member:
+    - 美奈子
+    - 朋花
+    - 志保
+    - 杏奈
+  mltd:
+    date: 2023.10.02
+    event: プラチナスターチーム～Star Impression～
+
+- song: 折紙物語
+  member:
+    - 紬
+  mltd:
+    date: 2023.10.11
+    event: メインコミュ 第137話
+
+- song: 解夏傀儡
+  member:
+    - 瑞希
+    - このみ
+    - 貴音
+    - 桃子
+    - 育
+  mltd:
+    date: 2023.10.18
+    event: プラチナスターツアービンゴ～解夏傀儡～
+
+- song: 海風とカスタネット
+  unit: MILLIONSTARS Team2nd
+  member:
+    - 海美
+    - 莉緒
+    - 可憐
+    - のり子
+    - 瑞希
+  mltd:
+    date: 2023.10.31
+    event: プラチナスターチーム～海風とカスタネット～
+
+- song: シャル・ウィー・ダンス？
+  member:
+    - まつり
+  mltd:
+    date: 2023.11.09
+    event: メインコミュ 第138話
 
 - song: エンダーエンダー
   member:

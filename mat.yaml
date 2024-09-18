@@ -3,9 +3,6 @@
   release:
     date: 2023.08.23
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER 『Rat A Tat!!!』
-  mltd:
-    date: 2023.09.17
-    event: プラチナスターツアービンゴスペシャル～Rat A Tat!!!～
 
 - song: セブンカウント
   unit: MILLIONSTARS
@@ -23,9 +20,6 @@
   release:
     date: 2023.09.20
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team1st 『Star Impression』
-  mltd:
-    date: 2023.10.02
-    event: プラチナスターチーム～Star Impression～
 
 - song: 海風とカスタネット
   unit: MILLIONSTARS Team2nd
@@ -38,9 +32,6 @@
   release:
     date: 2023.09.20
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team2nd 『海風とカスタネット』
-  mltd:
-    date: 2023.10.31
-    event: プラチナスターチーム～海風とカスタネット～
 
 - song: オレンジノキオク
   unit: MILLIONSTARS Team3rd
@@ -53,9 +44,6 @@
   release:
     date: 2023.10.25
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team3rd 『オレンジノキオク』
-  mltd:
-    date: 2023.11.30
-    event: プラチナスターチーム～オレンジノキオク～
 
 - song: catch my feeling
   unit: MILLIONSTARS Team4th

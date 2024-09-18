@@ -1,0 +1,532 @@
+- song: THE IDOLM@STER 初星-mix
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2019.01.01
+    event: 「ミリシタカウントダウン2018-2019」連動
+
+- song: Raise the FLAG
+  unit: サジタリアス
+  member:
+    - 恵美
+    - 歩
+    - 瑞希
+  mltd:
+    date: 2019.01.04
+    event: プラチナスターシアター～Raise the FLAG～
+
+- song: ローリング△さんかく
+  member:
+    - 桃子
+  mltd:
+    date: 2019.01.13
+    event: メインコミュ 第32話
+
+- song: だってあなたはプリンセス
+  unit: Charlotte・Charlotte
+  member:
+    - まつり
+    - エミリー
+  mltd:
+    date: 2019.01.20
+    event: プラチナスターツアー～だってあなたはプリンセス～
+
+- song: BOUNCING♪ SMILE!
+  member:
+    - 環
+  mltd:
+    date: 2019.01.29
+    event: メインコミュ 第33話
+
+- song: 成長Chu→LOVER!!
+  member:
+    - 杏奈
+    - 百合子
+  mltd:
+    date: 2019.02.02
+    event: プラチナスターシアター～成長Chu→LOVER!!～
+
+- song: 朝焼けのクレッシェンド
+  member:
+    - 琴葉
+  mltd:
+    date: 2019.02.12
+    event: メインコミュ 第34話
+
+- song: サンリズム・オーケストラ♪
+  unit: Sunshine Rhythm
+  member:
+    - 翼
+    - エミリー
+    - ひなた
+    - 美奈子
+    - エレナ
+    - 育
+    - のり子
+    - 杏奈
+    - 莉緒
+    - 可奈
+    - 奈緒
+    - ロコ
+    - 歌織
+  mltd:
+    date: 2019.02.14
+    event: 「サンシャイン・プリズム」スペシャルコミュ
+
+- song: 月曜日のクリームソーダ
+  unit: Jelly PoP Beans
+  member:
+    - ロコ
+    - 歩
+    - 昴
+    - 桃子
+  mltd:
+    date: 2019.02.19
+    event: プラチナスターツアー～月曜日のクリームソーダ～
+
+- song: brave HARMONY
+  unit: BlueMoon Harmony
+  member:
+    - 麗花
+    - 可憐
+    - ジュリア
+    - 紗代子
+    - 朋花
+    - 恵美
+    - 昴
+    - 百合子
+    - 千鶴
+    - 歩
+    - 瑞希
+    - 静香
+    - 紬
+  mltd:
+    date: 2019.02.27
+    event: 「ブルームーン・プリズム」スペシャルコミュ
+
+- song: Maria Trap
+  member:
+    - 朋花
+  mltd:
+    date: 2019.02.28
+    event: メインコミュ 第35話
+
+- song: Bonnes! Bonnes!! Vacances!!!
+  unit: リブラ
+  member:
+    - 翼
+    - 美奈子
+    - のり子
+  mltd:
+    date: 2019.03.04
+    event: プラチナスターシアター～Bonnes! Bonnes!! Vacances!!!～
+
+- song: Starry Melody
+  unit: Sunshine Rhythm
+  member:
+    - 未来
+    - 環
+    - 志保
+    - 海美
+    - 桃子
+    - まつり
+    - 風花
+    - 茜
+    - 星梨花
+    - このみ
+    - 亜利沙
+    - 美也
+    - 琴葉
+  mltd:
+    date: 2019.03.12
+    event: 「スターライト・プリズム」スペシャルコミュ
+
+- song: あのね、聞いてほしいことがあるんだ
+  member:
+    - ひなた
+  mltd:
+    date: 2019.03.12
+    event: メインコミュ 第36話
+
+- song: ピコピコIIKO! インベーダー
+  unit: ピコピコプラネッツ
+  member:
+    - ひなた
+    - 星梨花
+    - 環
+    - 杏奈
+  mltd:
+    date: 2019.03.19
+    event: プラチナスターツアー～ピコピコIIKO! インベーダー～
+
+- song: WE ARE ONE!!
+  member:
+    - のり子
+  mltd:
+    date: 2019.03.27
+    event: メインコミュ 第37話
+
+- song: オーバーマスター
+  unit: プロジェクト・フェアリー
+  member:
+    - 美希
+    - 響
+    - 貴音
+  mltd:
+    date: 2019.03.29
+    event: ミリオンフェス
+
+- song: インヴィンシブル・ジャスティス
+  unit: マイティセーラーズ
+  member:
+    - 翼
+    - 海美
+  mltd:
+    date: 2019.04.01
+    event: 出撃！アイドルヒーローズ
+
+- song: Justice OR Voice
+  unit: ジェネシス×ネメシス
+  member:
+    - 紬
+    - 歌織
+    - ジュリア
+    - 真
+    - 茜
+  mltd:
+    date: 2019.04.02
+    event: プラチナスターシアタースペシャル～アイドルヒーローズジェネシス Justice OR Voice～
+
+- song: ビギナーズ☆ストライク
+  member:
+    - 昴
+  mltd:
+    date: 2019.04.12
+    event: メインコミュ 第38話
+
+- song: Episode. Tiara
+  unit: STAR ELEMENTS
+  member:
+    - 未来
+    - 可奈
+    - 琴葉
+  mltd:
+    date: 2019.04.19
+    event: プラチナスターツアー～Episode. Tiara～
+
+- song: 教えてlast note…
+  member:
+    - 可憐
+  mltd:
+    date: 2019.04.29
+    event: メインコミュ 第39話
+
+- song: プリムラ
+  unit: ウィルゴ
+  member:
+    - 昴
+    - 百合子
+    - 静香
+  mltd:
+    date: 2019.05.02
+    event: プラチナスターシアター～プリムラ～
+
+- song: はなしらべ
+  member:
+    - エミリー
+  mltd:
+    date: 2019.05.12
+    event: メインコミュ 第40話
+
+- song: LEADER!!
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2019.05.20
+    event: プラチナスターツアー～LEADER!!～
+
+- song: 流星群
+  member:
+    - ジュリア
+  mltd:
+    date: 2019.05.30
+    event: メインコミュ 第41話
+
+- song: fruity love
+  member:
+    - ロコ
+    - 茜
+  mltd:
+    date: 2019.06.03
+    event: プラチナスターシアター～fruity love～
+
+- song: オレンジの空の下
+  member:
+    - 風花
+  mltd:
+    date: 2019.06.11
+    event: メインコミュ 第42話
+
+- song: White Vows
+  member:
+    - 風花
+    - 莉緒
+    - 歌織
+    - 千鶴
+    - このみ
+  mltd:
+    date: 2019.06.19
+    event: プラチナスターツアー～White Vows～
+
+- song: MUSIC♪
+  unit: トライスタービジョン
+  member:
+    - 琴葉
+    - エレナ
+    - 恵美
+  cover: true
+  mltd:
+    date: 2019.06.27
+    event: ミリオンフェス
+
+- song: Rebellion
+  member:
+    - 響
+  mltd:
+    date: 2019.06.28
+    event: メインコミュ 第43話
+
+- song: Flyers!!!
+  unit: 765 MILLION ALLSTARS
+  mltd:
+    date: 2019.07.01
+    event: UNI-ON@IR!!!!
+
+- song: MUSIC JOURNEY
+  member:
+    - 歌織
+  mltd:
+    date: 2019.07.15
+    event: メインコミュ 第44話
+
+- song: dans l'obscurité
+  unit: Chrono-Lexica
+  member:
+    - 百合子
+    - 昴
+    - 瑞希
+    - 杏奈
+    - ロコ
+  mltd:
+    date: 2019.07.23
+    event: プラチナスターツアー～dans l'obscurité～
+
+- song: マリオネットの心
+  member:
+    - 美希
+  mltd:
+    date: 2019.07.30
+    event: メインコミュ 第45話
+
+- song: ランニング・ハイッ
+  unit: キャンサー
+  member:
+    - 奈緒
+    - ひなた
+    - エミリー
+  mltd:
+    date: 2019.08.04
+    event: プラチナスターシアター～ランニング・ハイッ～
+
+- song: さかしまの言葉
+  member:
+    - 紬
+  mltd:
+    date: 2019.08.14
+    event: メインコミュ 第46話
+
+- song: ラビットファー
+  unit: Xs
+  member:
+    - 雪歩
+    - 美希
+    - 真
+    - 伊織
+  mltd:
+    date: 2019.08.21
+    event: プラチナスターツアー～ラビットファー～
+
+- song: Just be myself!!
+  member:
+    - 千早
+  mltd:
+    date: 2019.08.30
+    event: メインコミュ 第47話
+
+- song: 赤い世界が消える頃
+  member:
+    - 可奈
+    - 麗花
+    - 美奈子
+    - 可憐
+    - 瑞希
+  mltd:
+    date: 2019.09.03
+    event: プラチナスターシアター～赤い世界が消える頃～
+
+- song: 未来飛行
+  member:
+    - 未来
+  mltd:
+    date: 2019.09.12
+    event: メインコミュ 第48話
+
+- song: Girl meets Wonder
+  member:
+    - 星梨花
+    - 桃子
+    - 響
+    - まつり
+    - 昴
+  mltd:
+    date: 2019.09.19
+    event: プラチナスターツアー～Girl meets Wonder～
+
+- song: きゅんっ!ヴァンパイアガール
+  member:
+    - 伊織
+    - 育
+    - 桃子
+  cover: true
+  mltd:
+    date: 2019.09.27
+    event: ミリオンフェス
+
+- song: きゅんっ!ヴァンパイアガール
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2019.09.27
+    event: ミリオンフェス
+
+- song: キラメキラリ
+  member:
+    - やよい
+  mltd:
+    date: 2019.09.28
+    event: メインコミュ 第49話
+
+- song: G♡F
+  member:
+    - 律子
+    - 可憐
+  mltd:
+    date: 2019.10.03
+    event: プラチナスターシアター～G♡F～
+
+- song: Silent Joker
+  member:
+    - 瑞希
+  mltd:
+    date: 2019.10.12
+    event: メインコミュ 第50話
+
+- song: World Changer
+  member:
+    - 千早
+    - 美希
+    - エミリー
+    - 真
+    - 春香
+  mltd:
+    date: 2019.10.20
+    event: プラチナスターツアー～World Changer～
+
+- song: addicted
+  member:
+    - 貴音
+  mltd:
+    date: 2019.10.29
+    event: メインコミュ 第51話
+
+- song: 待ちぼうけのLacrima
+  unit: アクアリウス
+  member:
+    - 麗花
+    - 紗代子
+    - ジュリア
+  mltd:
+    date: 2019.11.02
+    event: プラチナスターシアター～待ちぼうけのLacrima～
+
+- song: Up!10sion♪Pleeeeeeeeease!
+  member:
+    - 亜利沙
+  mltd:
+    date: 2019.11.10
+    event: メインコミュ 第52話
+
+- song: ラ♥ブ♥リ♥
+  member:
+    - あずさ
+  mltd:
+    date: 2019.11.17
+    event: メインコミュ 第53話
+
+- song: Cherry Colored Love
+  unit: Sherry'n Cherry
+  member:
+    - このみ
+    - 莉緒
+  mltd:
+    date: 2019.11.18
+    event: プラチナスターツアー～Cherry Colored Love～
+
+- song: アクセルレーション
+  member:
+    - 玲音
+  mltd:
+    date: 2019.11.27
+    event: ゲストコミュ
+
+- song: 瞳の中のシリウス
+  member:
+    - 貴音
+    - 海美
+    - まつり
+    - 美也
+  mltd:
+    date: 2019.12.01
+    event: プラチナスターシアター～瞳の中のシリウス～
+
+- song: Fermata in Rapsodia
+  unit: ARCANA
+  member:
+    - あずさ
+    - 千早
+    - 貴音
+  mltd:
+    date: 2019.12.17
+    event: プラチナスターツアー～Fermata in Rapsodia～
+
+- song: ALRIGHT*
+  member:
+    - 雪歩
+  mltd:
+    date: 2019.12.21
+    event: メインコミュ 第55話
+
+- song: Large Size Party
+  member:
+    - 千早
+    - あずさ
+    - 貴音
+  mltd:
+    date: 2019.12.25
+    event: ミリオンフェス
+
+- song: Large Size Party
+  member:
+    - 百合子
+    - 杏奈
+  cover: true
+  mltd:
+    date: 2019.12.25
+    event: ミリオンフェス
