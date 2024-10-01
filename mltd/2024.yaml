@@ -285,8 +285,19 @@
 
 - song: スペードのQ ぴえぴえver.
   member:
-    - 琴葉
     - 星梨花
+    - 琴葉
   mltd:
     date: 2024.09.27
     event: ミリオンリンケージ ぴえぴえかふぇ編
+
+- song: SMOKY THRILL
+  unit: 竜宮小町
+  member:
+    - 律子
+    - 伊織
+    - 亜美
+    - あずさ
+  mltd:
+    date: 2024.10.01
+    event: プラチナスターツアービンゴスペシャル～SMOKY THRILL～
