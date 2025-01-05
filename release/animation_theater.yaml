@@ -65,7 +65,7 @@
     - 育
     - 茜
     - 星梨花
-    - 美也
+    - 美也 
   release:
     date: 2023.10.25
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team5th 『バトンタッチ』
@@ -104,3 +104,95 @@
   release:
     date: 2023.10.25
     disc: THE IDOLM@STER MILLION ANIMATION THE@TER MILLIONSTARS Team8th 『REFRAIN REL@TION』
+
+- song: Dreaming!
+  unit: MILLIONSTARS Team6th
+  cover: true
+  release:
+    date: 2024.02.21
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER START THE DREAM
+
+- song: Sentimental Venus
+  member:
+    - 風花
+    - 杏奈
+    - 奈緒
+  cover: true
+  release:
+    date: 2024.02.21
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER START THE DREAM
+
+- song: REFRAIN REL@TION
+  unit: MILLIONSTARS
+  cover: true
+  release:
+    date: 2024.02.21
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER START THE DREAM
+
+- song: Brand New Theater!
+  unit: MILLIONSTARS
+  cover: true
+  release:
+    date: 2024.02.21
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER START THE DREAM
+
+- song: We Have A Dream (Anime ver.)
+  member:
+    - 未来
+    - 静香
+    - 翼
+    - まつり
+    - 百合子
+    - 星梨花
+    - 杏奈
+  cover: true
+  release:
+    date: 2024.02.21
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER START THE DREAM
+
+- song: Thank You! (Acoustic ver.)
+  unit: MILLIONSTARS
+  cover: true
+  release:
+    date: 2024.02.21
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER START THE DREAM
+
+- song: Snow White
+  member:
+    - 静香
+  cover: true
+  release:
+    date: 2024.02.21
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER START THE DREAM
+
+- song: READY!! (Anime ver.)
+  unit: 765 MILLIONSTARS
+  cover: true
+  release:
+    date: 2024.02.21
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER START THE DREAM
+
+- song: G線上のアリア
+  member:
+    - 千早
+    - 静香
+    - 志保
+    - 星梨花
+  cover: true
+  release:
+    date: 2024.02.21
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER START THE DREAM
+
+- song: Gift Sign
+  member:
+    - 静香
+  release:
+    date: 2024.02.21
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER START THE DREAM
+
+- song: READY!!(M@STER VERSION)
+  unit: MILLIONSTARS Team8th
+  cover: true
+  release:
+    date: 2024.02.21
+    disc: THE IDOLM@STER MILLION ANIMATION THE@TER START THE DREAM

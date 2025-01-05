@@ -287,6 +287,7 @@
   member:
     - 星梨花
     - 琴葉
+  cover: true
   mltd:
     date: 2024.09.27
     event: ミリオンリンケージ ぴえぴえかふぇ編
@@ -301,3 +302,91 @@
   mltd:
     date: 2024.10.01
     event: プラチナスターツアービンゴスペシャル～SMOKY THRILL～
+
+- song: Next Life
+  member:
+    - 響
+  mltd:
+    date: 2024.10.11
+    event: メインコミュ 第148話
+
+- song: Sky Survive
+  member:
+    - 紬
+    - のり子
+    - 翼
+    - ひなた
+  mltd:
+    date: 2024.10.18
+    event: プラチナスタートラスト13～Sky Survive～
+
+- song: Pomegranate
+  member:
+    - 千鶴
+    - 歌織
+    - エレナ
+    - 星梨花
+    - ロコ
+  mltd:
+    date: 2024.10.31
+    event: プラチナスタートラストスペシャル～ワルプルギスの微笑～
+
+- song: Pomegranate
+  member:
+    - 風花
+    - 百合子
+  cover: true
+  mltd:
+    date: 2024.11.09
+    event: 「Pomegranate」スペシャルコミュ
+  
+- song: Stellar Light
+  unit: ステラ
+  member:
+    - 貴音
+    - 雪歩
+    - 春香
+    - 伊織
+  mltd:
+    date: 2024.11.17
+    event: プラチナスターツアービンゴ～Stellar Light～
+
+- song: ギブミーメタファー
+  unit: STAR ELEMENTS
+  member:
+    - 琴葉
+    - 未来
+    - 可奈
+  mltd:
+    date: 2024.11.30
+    event: プラチナスターチューン～ギブミーメタファー～
+
+- song: アイ NEED YOU（FOR WONDERFUL STORY）
+  member:
+    - 未来
+    - 春香
+    - 静香
+    - 千早
+    - 翼
+    - 美希
+  mltd:
+    date: 2024.12.09
+    event: 「アイ NEED YOU（FOR WONDERFUL STORY）」スペシャルコミュ
+
+- song: All Alone
+  member:
+    - エミリー
+    - 麗花
+    - 未来
+    - 志保
+  mltd:
+    date: 2024.12.17
+    event: プラチナスターティアラ～All Alone～
+
+- song: 唸れ！ミリオンアーマー！
+  member:
+    - 歌織
+    - 可憐
+  mltd:
+    date: 2024.12.25
+    event: ミリオンリンケージ ミリオンアーマーAce編

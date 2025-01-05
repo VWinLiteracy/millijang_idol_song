@@ -59,30 +59,6 @@
 
 - song: Crossing!
   unit: 765 MILLION ALLSTARS
-  mltd:
-    date: 2023.02.14
-    event: MILLION LIVE! 10th ANNIVERSARY～Beyond @ Crossing～
   release:
     date: 2023.03.22
     disc: THE IDOLM@STER 765 MILLION ALLSTARS BEST
-
-- song: グッドサイン
-  unit: 765 MILLION ALLSTARS
-  mltd:
-    date: 2023.06.30
-    event: R@ise a Good Sign!
-  release:
-    date: 2023.07.26
-    disc: THE IDOLM@STER MILLION LIVE! グッドサイン
-
-- song: 電波感傷
-  unit: オフィウクス
-  member:
-    - 歌織
-    - 紬
-  mltd:
-    date: 2023.05.19
-    event: プラチナスターツアー～電波感傷～
-  release:
-    date: 2023.07.26
-    disc: THE IDOLM@STER MILLION LIVE! グッドサイン

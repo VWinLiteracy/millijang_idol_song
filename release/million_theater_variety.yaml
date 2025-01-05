@@ -20,6 +20,17 @@
     date: 2022.03.16
     disc: THE IDOLM@STER MILLION THE@TER VARIETY 01
 
+- song: ワールド・アスレチック・COOK-KING ～勝者必食！？スポ食の秋～ シャッフルバージョン
+  member:
+    - 育
+    - 響
+    - 美奈子
+    - 可憐
+    - 歩
+  release:
+    date: 2022.03.16
+    disc: THE IDOLM@STER MILLION THE@TER VARIETY 01
+
 - song: Vacation VS Summer ～ナツとヤスミのアンビバレント！～
   member:
     - まつり
@@ -51,10 +62,10 @@
 - song: 春風満帆スターティング
   member:
     - 雪歩
-    - 真
     - のり子
-    - 昴
+    - 真
     - 静香
+    - 昴
   release:
     date: 2023.05.31
     disc: THE IDOLM@STER MILLION THE@TER VARIETY 03
@@ -62,8 +73,8 @@
 - song: リベレイシング／アロン -LiberaSing Along-
   member:
     - 千早
-    - 朋花
     - ひなた
+    - 朋花
     - まつり
     - このみ
   release:
@@ -85,8 +96,8 @@
   member:
     - あずさ
     - 千鶴
-    - 麗花
     - 貴音
+    - 麗花
     - 風花
   release:
     date: 2023.09.27
@@ -97,8 +108,33 @@
     - 歩
     - 伊織
     - 紗代子
-    - 莉緒
     - 昴
+    - 莉緒
   release:
     date: 2023.09.27
     disc: THE IDOLM@STER MILLION THE@TER VARIETY 04
+
+- song: はぴ！やば！まいまいんど！
+  member:
+    - 杏奈
+    - やよい
+    - 美希
+    - ひなた
+    - ジュリア
+  release:
+    date: 2024.03.20
+    disc: THE IDOLM@STER MILLION THE@TER VARIETY 05
+
+- song: 夢みがちBride (我那覇 響 Ver.)
+  member:
+    - 響
+  release:
+    date: 2024.03.20
+    disc: THE IDOLM@STER MILLION THE@TER VARIETY 05
+
+- song: 夢みがちBride (横山奈緒 Ver.)
+  member:
+    - 奈緒
+  release:
+    date: 2024.03.20
+    disc: THE IDOLM@STER MILLION THE@TER VARIETY 05

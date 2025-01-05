@@ -28,3 +28,34 @@
   release:
     date: 2024.09.25
     disc: THE IDOLM@STER MILLION MOVEMENT OF STARDOM ROAD 03 Hypernova
+
+- song: 推しってほんと
+  member:
+    - 恵美
+    - エレナ
+    - 美奈子
+    - 琴葉
+    - 可奈
+  release:
+    date: 2024.10.30
+    disc: THE IDOLM@STER MILLION MOVEMENT OF STARDOM ROAD 04 推しってほんと
+
+- song: 未完成のポラリス
+  member:
+    - 美也
+    - 杏奈
+    - 歩
+    - 奈緒
+  release:
+    date: 2024.11.27
+    disc: THE IDOLM@STER MILLION MOVEMENT OF STARDOM ROAD 05 未完成のポラリス
+
+- song: Sky Survive
+  member:
+    - 紬
+    - のり子
+    - 翼
+    - ひなた
+  release:
+    date: 2024.12.25
+    disc: THE IDOLM@STER MILLION MOVEMENT OF STARDOM ROAD 06 Sky Survive

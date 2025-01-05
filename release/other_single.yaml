@@ -1,3 +1,42 @@
+- song: グッドサイン
+  unit: 765 MILLION ALLSTARS
+  release:
+    date: 2023.07.26
+    disc: THE IDOLM@STER MILLION LIVE!「グッドサイン」
+
+- song: 電波感傷
+  unit: オフィウクス
+  member:
+    - 歌織
+    - 紬
+  release:
+    date: 2023.07.26
+    disc: THE IDOLM@STER MILLION LIVE!「グッドサイン」
+
+- song: グッドサイン (765PRO ALLSTARS ver.)
+  unit: 765PRO ALLSTARS
+  release:
+    date: 2023.07.26
+    disc: THE IDOLM@STER MILLION LIVE!「グッドサイン」
+
+- song: グッドサイン (プリンセススターズ ver.)
+  unit: プリンセススターズ
+  release:
+    date: 2023.07.26
+    disc: THE IDOLM@STER MILLION LIVE!「グッドサイン」
+
+- song: グッドサイン (フェアリースターズ ver.)
+  unit: フェアリースターズ
+  release:
+    date: 2023.07.26
+    disc: THE IDOLM@STER MILLION LIVE!「グッドサイン」
+
+- song: グッドサイン (エンジェルスターズ ver.)
+  unit: エンジェルスターズ
+  release:
+    date: 2023.07.26
+    disc: THE IDOLM@STER MILLION LIVE!「グッドサイン」
+
 - song: 7Days A Week!!
   unit: 765 MILLION ALLSTARS
   release:
@@ -6,6 +45,7 @@
 
 - song: DIAMOND DAYS (765 MILLION ALLSTARS ver.)
   unit: 765 MILLION ALLSTARS
+  cover: true
   release:
     date: 2024.07.31
     disc: THE IDOLM@STER MILLION LIVE! 7Days A Week!!
@@ -17,6 +57,7 @@
     - 貴音
     - 桃子
     - 育
+  cover: true
   release:
     date: 2024.07.31
     disc: THE IDOLM@STER MILLION LIVE! 7Days A Week!!
@@ -28,6 +69,7 @@
     - 翼
     - 星梨花
     - 歩
+  cover: true
   release:
     date: 2024.07.31
     disc: THE IDOLM@STER MILLION LIVE! 7Days A Week!!
@@ -39,6 +81,7 @@
     - 未来
     - 志保
     - 百合子
+  cover: true
   release:
     date: 2024.07.31
     disc: THE IDOLM@STER MILLION LIVE! 7Days A Week!!
@@ -50,6 +93,19 @@
     - 真
     - 亜利沙
     - 可奈 
+  cover: true
   release:
     date: 2024.07.31
     disc: THE IDOLM@STER MILLION LIVE! 7Days A Week!!
+
+- song: COLORS ON CANVAS!
+  member:
+    - ロコ
+  release:
+    date: 2024.11.09
+
+- song: 君と同じ物語
+  member:
+    - 百合子
+  release:
+    date: 2024.11.10
