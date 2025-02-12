@@ -59,3 +59,23 @@
   release:
     date: 2024.12.25
     disc: THE IDOLM@STER MILLION MOVEMENT OF STARDOM ROAD 06 Sky Survive
+
+- song: All Alone
+  member:
+    - エミリー
+    - 麗花
+    - 未来
+    - 志保
+  release:
+    date: 2025.02.26
+    disc: THE IDOLM@STER MILLION MOVEMENT OF STARDOM ROAD 07 All Alone
+
+- song: 涙を知ること
+  member:
+    - 歌織
+    - 環
+    - ジュリア
+    - 育
+  release:
+    date: 2025.03.26
+    disc: THE IDOLM@STER MILLION MOVEMENT OF STARDOM ROAD 08 涙を知ること

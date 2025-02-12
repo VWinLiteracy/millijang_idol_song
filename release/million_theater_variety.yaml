@@ -138,3 +138,34 @@
   release:
     date: 2024.03.20
     disc: THE IDOLM@STER MILLION THE@TER VARIETY 05
+
+- song: Pomegranate
+  member:
+    - 千鶴
+    - 歌織
+    - エレナ
+    - 星梨花
+    - ロコ
+  release:
+    date: 2025.02.26
+    disc: THE IDOLM@STER MILLION THE@TER VARIETY 06
+
+- song: Pomegranate
+  member:
+    - 風花
+    - 百合子
+  cover: true
+  release:
+    date: 2025.02.26
+    disc: THE IDOLM@STER MILLION THE@TER VARIETY 06
+
+- song: ピコピコIIKO! インベーダー (MOTTO! 幼年期-mix)
+  member:
+    - 星梨花
+    - ひなた
+    - 環
+    - 杏奈
+  release:
+    date: 2025.02.26
+    disc: THE IDOLM@STER MILLION THE@TER VARIETY 06
+
