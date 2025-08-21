@@ -50,4 +50,196 @@
     - 麗花
   mltd:
     date: 2025.02.09
-    event: メインコミュ 第149話
+    event: メインコミュ 第150話
+
+- song: I.V.
+  member:
+    - 瑞希
+    - 百合子
+    - 静香
+    - 莉緒
+    - ロコ
+  mltd:
+    date: 2025.02.17
+    event: プラチナスタートラスト13～I.V.～
+
+- song: 彼氏になってよ。
+  unit: りるきゃん ～3 little candy～
+  member:
+    - 翼
+    - 可憐
+    - 茜
+  release:
+    date: 2025.03.02
+    disc: プラチナスターチューン～彼氏になってよ。～
+
+- song: きみがくれた言葉があるから
+  member:
+    - のり子
+  mltd:
+    date: 2025.03.11
+    event: メインコミュ 第151話
+
+- song: Bestest!!
+  member:
+    - このみ
+    - 春香
+    - 琴葉
+    - 育
+    - 亜利沙
+  mltd:
+    date: 2025.03.18
+    event: プラチナスタートラスト～Bestest!!～
+
+- song: 花ざかりWeekend✿ 2 Luxury ver.
+  member:
+    - 貴音
+    - あずさ
+  cover: true
+  mltd:
+    date: 2025.03.28
+    event: ミリオンリンケージ 今宵、パーティーを抜け出して…編
+
+- song: Eternal Spiral
+  member:
+    - やよい
+    - 可奈
+  mltd:
+    date: 2025.04.02
+    event: プラチナスターシアター～Eternal Spiral～
+
+- song: アロー彗星
+  member:
+    - ジュリア
+  mltd:
+    date: 2025.04.11
+    event: メインコミュ 第152話
+
+- song: 頂上決戦ヴィクトリー!!!!!!
+  member:
+    - 静香
+    - 真
+    - エミリー
+    - 環
+    - 麗花
+    - 朋花
+  mltd:
+    date: 2025.04.18
+    event: プラチナスタートラストBOT～頂上決戦ヴィクトリー!!!!!!～
+
+- song: Fu-Wa-Du-Wa
+  member:
+    - 真美
+    - 歩
+    - 真
+    - エレナ
+  mltd:
+    date: 2025.05.01
+    event: プラチナスターシアター～Fu-Wa-Du-Wa～
+
+- song: 勇気のfragrance
+  member:
+    - 可憐
+  mltd:
+    date: 2025.05.10
+    event: メインコミュ 第153話
+
+- song: Clash of Colors
+  member:
+    - 奈緒
+    - 瑞希
+    - 昴
+    - 雪歩
+  mltd:
+    date: 2025.05.18
+    event: プラチナスターツアービンゴ～Clash of Colors～
+
+- song: U・N・M・E・I ライブ
+  member:
+    - 未来
+    - 星梨花
+    - 静香
+  mltd:
+    date: 2025.05.31
+    event: プラチナスターシアター～U・N・M・E・I ライブ～
+
+- song: Mythmaker
+  member:
+    - あずさ
+  mltd:
+    date: 2025.06.09
+    event: メインコミュ 第154話
+
+- song: Luvliminal image
+  member:
+    - 莉緒
+    - 美也
+    - ジュリア
+    - 美希
+  mltd:
+    date: 2025.06.16
+    event: プラチナスターツアービンゴ～Luvliminal image～
+
+- song: Fate of the World
+  member:
+    - 紗代子
+    - 志保
+  cover: ture
+  mltd:
+    date: 2025.06.28
+    event: ミリオンリンケージ ギョーカイ×SisterS編
+
+- song: Fate of the World
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2025.06.28
+    event: ミリオンリンケージ ギョーカイ×SisterS編
+
+- song: 蝶々むすび
+  unit: 765 MILLION ALLSTARS
+  mltd:
+    date: 2025.06.30
+    event: 超々∞MUGEND@I!
+
+- song: シルエット
+  member:
+    - 琴葉
+  mltd:
+    date: 2025.07.13
+    event: メインコミュ 第155話
+
+- song: Hug a nice day!
+  member:
+    - 海美
+    - 紬
+    - 風花
+    - 昴
+    - 茜
+    - 可奈
+  mltd:
+    date: 2025.07.19
+    event: プラチナスタートラストBOT～Hug a nice day!～
+
+- song: ザ・ライブ革命でＳＨＯＷ！
+  unit: 765PRO ALLSTARS
+  mltd:
+    date: 2025.07.31
+    event: プラチナスタートレジャー～ザ・ライブ革命でＳＨＯＷ！～
+
+- song: Discord Area
+  member:
+    - 律子
+  mltd:
+    date: 2025.08.10
+    event: メインコミュ 第156話
+
+- song: SHIMMER
+  member:
+    - 杏奈
+    - 百合子
+    - 未来
+    - 亜美
+  mltd:
+    date: 2025.08.18
+    event: プラチナスターツアービンゴ～SHIMMER～
+

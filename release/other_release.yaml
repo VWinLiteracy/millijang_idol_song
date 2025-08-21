@@ -1,3 +1,15 @@
+- song: 夢にかけるRainbow (Brand New Ver.)
+  unit: 765 MILLION ALLSTARS
+  release:
+    date: 2023.03.22
+    disc: THE IDOLM@STER 765 MILLION ALLSTARS BEST
+
+- song: Crossing!
+  unit: 765 MILLION ALLSTARS
+  release:
+    date: 2023.03.22
+    disc: THE IDOLM@STER 765 MILLION ALLSTARS BEST
+
 - song: グッドサイン
   unit: 765 MILLION ALLSTARS
   release:
@@ -110,6 +122,15 @@
   release:
     date: 2024.11.10
 
+- song: アイ NEED YOU（FOR WONDERFUL STORY）
+  member:
+    - 未来
+    - 静香
+    - 翼
+  release:
+    date: 2024.12.11
+    disc: 「アイ NEED YOU（FOR WONDERFUL STORY）」 【ミリオンライブ！盤】
+
 - song: 唸れ！ミリオンアーマー！
   member:
     - 歌織
@@ -128,3 +149,51 @@
   release:
     date: 2025.02.26
     disc: THE IDOLM@STER MILLION ARMOR ACE＆BEYOND
+
+- song: 蝶々むすび
+  unit: 765 MILLION ALLSTARS
+  release:
+    date: 2025.07.30
+    disc: THE IDOLM@STER MILLION LIVE! 蝶々むすび
+
+- song: dear… (Asterism ver.)
+  member:
+    - 育
+    - 環
+    - 桃子
+  release:
+    date: 2025.07.30
+    disc: THE IDOLM@STER MILLION LIVE! 蝶々むすび
+
+- song: シークレットジュエル～魅惑の金剛石～ (Rabbit Girls ver.)
+  member:
+    - 海美
+    - 恵美
+  release:
+    date: 2025.07.30
+    disc: THE IDOLM@STER MILLION LIVE! 蝶々むすび
+
+- song: 百花は月下に散りぬるを (SHINOBI Night ver.)
+  member:
+    - 静香
+    - 杏奈
+  release:
+    date: 2025.07.30
+    disc: THE IDOLM@STER MILLION LIVE! 蝶々むすび
+
+- song: スペードのQ (ぴえぴえ ver.)
+  member:
+    - 星梨花
+    - 琴葉
+  release:
+    date: 2025.07.30
+    disc: THE IDOLM@STER MILLION LIVE! 蝶々むすび
+
+- song: 花ざかりWeekend✿ (2 Luxury ver.)
+  member:
+    - 貴音
+    - あずさ
+  release:
+    date: 2025.07.30
+    disc: THE IDOLM@STER MILLION LIVE! 蝶々むすび
+
