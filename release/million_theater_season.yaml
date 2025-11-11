@@ -4,6 +4,30 @@
     date: 2021.07.28
     disc: THE IDOLM@STER MILLION THE@TER SEASON Harmony 4 You
 
+- song: EVERYDAY STARS!! (765PRO ALLSTARS ver.)
+  unit: 765PRO ALLSTARS
+  release:
+    date: 2021.07.28
+    disc: THE IDOLM@STER MILLION THE@TER SEASON Harmony 4 You
+
+- song: EVERYDAY STARS!! (プリンセススターズ ver.)
+  unit: プリンセススターズ
+  release:
+    date: 2021.07.28
+    disc: THE IDOLM@STER MILLION THE@TER SEASON Harmony 4 You
+
+- song: EVERYDAY STARS!! (フェアリースターズ ver.)
+  unit: フェアリースターズ
+  release:
+    date: 2021.07.28
+    disc: THE IDOLM@STER MILLION THE@TER SEASON Harmony 4 You
+
+- song: EVERYDAY STARS!! (エンジェルスターズ ver.)
+  unit: エンジェルスターズ
+  release:
+    date: 2021.07.28
+    disc: THE IDOLM@STER MILLION THE@TER SEASON Harmony 4 You
+
 - song: ダイヤモンド・クラリティ
   unit: BRIGHT DIAMOND
   member:
@@ -222,6 +246,27 @@
 
 - song: 夢にかけるRainbow
   unit: 765 MILLION ALLSTARS
+  release:
+    date: 2022.07.27
+    disc: THE IDOLM@STER MILLION THE@TER SEASON 夢にかけるRainbow
+
+- song: 夢にかけるRainbow (プリンセススターズ ver.)
+  unit: プリンセススターズ
+  cover: true
+  release:
+    date: 2022.07.27
+    disc: THE IDOLM@STER MILLION THE@TER SEASON 夢にかけるRainbow
+
+- song: 夢にかけるRainbow (フェアリースターズ ver.)
+  unit: フェアリースターズ
+  cover: true
+  release:
+    date: 2022.07.27
+    disc: THE IDOLM@STER MILLION THE@TER SEASON 夢にかけるRainbow
+
+- song: 夢にかけるRainbow (エンジェルスターズ ver.)
+  unit: エンジェルスターズ
+  cover: true
   release:
     date: 2022.07.27
     disc: THE IDOLM@STER MILLION THE@TER SEASON 夢にかけるRainbow

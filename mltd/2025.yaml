@@ -184,7 +184,7 @@
   member:
     - 紗代子
     - 志保
-  cover: ture
+  cover: true
   mltd:
     date: 2025.06.28
     event: ミリオンリンケージ ギョーカイ×SisterS編
@@ -218,12 +218,16 @@
     - 可奈
   mltd:
     date: 2025.07.19
+    type: 
+      - All
     event: プラチナスタートラストBOT～Hug a nice day!～
 
 - song: ザ・ライブ革命でＳＨＯＷ！
   unit: 765PRO ALLSTARS
   mltd:
     date: 2025.07.31
+    type: 
+      - All
     event: プラチナスタートレジャー～ザ・ライブ革命でＳＨＯＷ！～
 
 - song: Discord Area
@@ -231,6 +235,8 @@
     - 律子
   mltd:
     date: 2025.08.10
+    type:
+      - Fairy
     event: メインコミュ 第156話
 
 - song: SHIMMER
@@ -241,5 +247,101 @@
     - 亜美
   mltd:
     date: 2025.08.18
+    type:
+      - Angel
+      - Princess
     event: プラチナスターツアービンゴ～SHIMMER～
+
+- song: piece of cake
+  member:
+    - 麗花
+    - 志保
+  mltd:
+    date: 2025.08.31
+    type: 
+      - Angel
+    event: プラチナスターシアター～piece of cake～
+
+- song: 美！美！美！ビルドUP!!
+  member:
+    - 海美
+  mltd:
+    date: 2025.09.10
+    type:
+      - Princess
+    event: メインコミュ 第157話
+
+- song: 鉄の羽のエクソダス
+  member:
+    - 麗花
+    - 志保
+  mltd:
+    date: 2025.09.18
+    type: 
+      - All
+    event: プラチナスタートラストBOT～鉄の羽のエクソダス～
+
+- song: Parade d'amour (les amis d'enfance ver.)
+  member:
+    - 紬
+    - エミリー
+  cover: true
+  mltd:
+    date: 2025.09.27
+    typr:
+      - All
+    event: ミリオンリンケージ オペラセリア・きらめきの幼馴染編
+
+- song: My Evolution
+  unit: miraclesonic★expassion
+  member:
+    - エレナ
+    - 海美
+    - のり子
+    - 歩
+  mltd:
+    date: 2025.10.01
+    type: 
+      - Fairy
+    event: プラチナスターチューン～My Evolution～
+
+- song: Oli Oli DISCO
+  member:
+    - 歩
+  mltd:
+    date: 2025.10.10
+    type: 
+      - Fairy
+    event: メインコミュ 第158話
+
+- song: 不思議発見ラボ！
+  member:
+    - ひなた
+    - 可奈
+    - 紬
+  mltd:
+    date: 2025.10.18
+    type: 
+      - All
+    event: プラチナスターツアービンゴ～不思議発見ラボ！～
+
+- song: Halftone
+  member:
+    - 雪歩
+    - 真
+  mltd:
+    date: 2025.10.31
+    type: 
+      - Princess
+    event: プラチナスターシアター～Halftone～
+
+- song: MY STYLE! OUR STYLE!!!!
+  member:
+    - 桃子
+  mltd:
+    date: 2025.11.09
+    type: 
+      - Fairy
+    event: メインコミュ 第159話
+
 
