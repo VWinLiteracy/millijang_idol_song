@@ -344,4 +344,38 @@
       - Fairy
     event: メインコミュ 第159話
 
+- song: Texting you
+  member:
+    - 紗代子
+    - 茜
+    - 恵美
+  mltd:
+    date: 2025.11.17
+    type: 
+      - All
+    event: プラチナスターツアービンゴ～Texting you～
 
+- song: REALIZE！！！
+  member:
+    - 響
+    - 美希
+    - 貴音
+  mltd:
+    date: 2025.11.30
+    type: 
+      - All
+    event: プラチナスターシアター～REALIZE！！！～
+
+- song: FAITH/TO/FAITH
+  member:
+    - 百合子
+    - あずさ
+    - 響
+    - エレナ
+    - 瑞希
+    - 莉緒
+  mltd:
+    date: 2025.12.16
+    type: 
+      - All
+    event: プラチナスタートラストBOT～アイドルヒーローズクロニクル FAITH/TO/FAITH～
